@@ -43,14 +43,12 @@ If that case the filename for the icons should be:
 
 You can ignore all other columns, those are only set after your icons are uploaded to Developer's Portal.
 
-After modifying a ``.csv`` you have to include a **link for the icon of the newly added title on the description of your pull request**. If you forget to do that you can still submit your icon through this [this form](https://forms.gle/SztU5GdQEgwx45GX8).
+After modifying a ``.csv``, you will have to include **a link for the icon of the newly added title in the description of your pull request**. The minimum accepted size is **512x512** pixels.
+- If the source image is too blurry or pixelated, the use of super-resolution for upscaling is preferable.
 
-The minimum size needs to be **512x512** pixels.
-- If the source image is too blurry or pixelated the use of super-resolution for upscaling or is preferable. Unofficial recreations are also accepted in these cases.
+☕ After that you will just have to be patient, I'll manually add your icon to the Discord Developer's Portal. You can find all icons uploaded so far on this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing).
 
-☕ After that you just have to be patient, I'll manually upload your icon to Discord Developer's Portal.
-
-> ⚠ This repository is not meant for hosting icons, only title strings are hosted here.
+> ⚠ This repository is not meant for hosting icons, only the strings for the titles used by the application.
 
 ## Credits
 
