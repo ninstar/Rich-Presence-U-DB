@@ -62,4 +62,6 @@ All resources provided here were made possible thanks to the contribution of the
 * CodeBarre
 * issey
 * Peach774
-* Sneethan
+* Sup3r-M4rio
+* ShadowzI
+* Schitzel9000
