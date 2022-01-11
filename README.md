@@ -9,7 +9,7 @@ Title database for https://github.com/ninstar/Rich-Presence-U.
 Below are links to the table of titles for each platform:
 
 - Wii U - [titles_wiiu.csv](/titles_wiiu.csv)
-- Nintendo Switch - [titles_nswitch.csv](//titles_nswitch.csv)
+- Nintendo Switch - [titles_nswitch.csv](/titles_nswitch.csv)
 - Nintendo 3DS - [titles_n3ds.csv](/titles_n3ds.csv)
 
 Each line is for a different title, regions are separated by columns:
@@ -45,6 +45,7 @@ You can ignore all other columns, those are only set after your icons are upload
 
 After modifying a ``.csv``, you will have to include **a link for the icon of the newly added title in the description of your pull request**. The minimum accepted size is **512x512** pixels.
 - If the source image is too blurry or pixelated, the use of super-resolution for upscaling is preferable.
+- Icons must be 1:1 aspect ratio.
 
 ☕ After that you will just have to be patient, I'll manually add your icon to the Discord Developer's Portal. You can find all icons uploaded so far on this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing).
 
