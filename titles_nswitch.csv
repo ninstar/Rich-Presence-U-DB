@@ -1,5 +1,4 @@
 INDEX,US,EU,JP,US TITLE,EU TITLE,JP TITLE
-tlozsshd,0,,,The Legend of Zelda: Skyward Sword HD,,
 otsw,0,,,1-2-Switch,,
 ahit,0,,,A Hat in Time,,
 acnh,0,,,Animal Crossing: New Horizons,,あつまれ どうぶつの森
@@ -84,6 +83,7 @@ fewrs,0,,,Fire Emblem Warriors,,
 fethrhs,0,,,Fire Emblem: Three Houses,,
 fortnite,0,,,Fortnite,,
 ft13thg,0,,,Friday The 13th: The Game,,
+gbg,0,,,Game Builder Garage,,ナビつき! つくってわかる はじめてゲームプログラミング
 grfldkfr,0,,,Garfield Kart Furious Racing,,
 govctn,0,,,Go Vacation,,
 glfstr,0,,,Golf Story,,
@@ -135,7 +135,8 @@ nlaanw,0,,,Nelke & the Legendary Alchemists ~Ateliers of the New World~,,
 newslt,0,,,New Super Lucky's Tale,,
 nsmbudx,0,,,New Super Mario Bros. U Deluxe,,
 ninjala,0,,,Ninjala,,
-swnes,0,,,Nintendo Entertainment System,,ファミリーコンピュータ
+swn64,0,,,Nintendo 64™ – Nintendo Switch Online,,NINTENDO 64 Nintendo Switch Online
+swnes,0,,0,Nintendo Entertainment System™ – Nintendo Switch Online,,ファミリーコンピュータ Nintendo Switch Online
 nmh3,0,,,No More Heroes 3,,
 octptvl,0,,,Octopath Traveler,,
 oriatbf,0,,,Ori and the Blind Forest: Definitive Edition,,
@@ -145,12 +146,14 @@ pmtok,0,,,Paper Mario: The Origami King,,
 payday2,0,,,PAYDAY 2,,
 pwaat,0,,,Phoenix Wright: Ace Attorney Trilogy,,
 pik3dx,0,,,Pikmin 3 Deluxe,,
+pkmbd,0,,,Pokémon Brilliant Diamond,,ポケットモンスター ブリリアントダイヤモンド
 pkmcm,0,,,Pokémon Café Mix,,
 pkmhm,0,,,Pokémon Home,,
 pkmla,0,,,Pokémon Legends: Arceus,,Pokémon LEGENDS アルセウス
 pkmmdrtdx,0,,,Pokémon Mystery Dungeon: Rescue Team DX,,ポケモン不思議のダンジョン 救助隊DX 
 pkmqst,0,,,Pokémon Quest,,ポケモンクエスト
 pkmsh,0,,,Pokémon Shield,,ポケットモンスター シールド
+pkmsp,0,,,Pokémon Shining Pearl,,ポケットモンスター シャイニングパール
 pkmsw,0,,,Pokémon Sword,,ポケットモンスター ソード
 pkmuni,0,,,Pokémon UNITE,,ポケモンユナイト
 pkmlge,0,,,"Pokémon: Let's Go, Eevee!",,ポケットモンスター Let's Go! イーブイ
@@ -165,6 +168,8 @@ revl5,0,,,Resident Evil 5,,バイオハザード5
 revl6,0,,,Resident Evil 6,,バイオハザード6
 rngfitadv,0,,,Ring Fit Adventure,,
 rcktlg,0,,,Rocket League,,
+swsmd,0,0,0,SEGA Genesis™ – Nintendo Switch Online,SEGA Mega Drive™ – Nintendo Switch Online,セガ メガドライブ for Nintendo Switch Online
+smtv,0,,,Shin Megami Tensei V,, 真・女神転生V
 sksd,0,,,Shovel Knight Showdown,,
 skkoc,0,,,Shovel Knight: King of Cards,,
 sksoh,0,,,Shovel Knight: Shovel of Hope,,
@@ -188,7 +193,7 @@ sm3dwbf,0,,,Super Mario 3D World + Bowser's Fury,,スーパーマリオ 3Dワー
 smm2,0,,,Super Mario Maker 2,,スーパーマリオメーカー2
 smods,0,,,Super Mario Odyssey,,スーパーマリオ オデッセイ
 smprty,0,,,Super Mario Party,,スーパー マリオパーティ
-swsnes,0,,,Super Nintendo Entertainment System,,スーパーファミコン
+swsnes,0,0,0,Super Nintendo Entertainment System™ – Nintendo Switch Online,,スーパーファミコン Nintendo Switch Online
 ssbu,0,,,Super Smash Bros. Ultimate,,大乱闘スマッシュブラザーズ SPECIAL
 tsncr,0,,,Team Sonic Racing,,チームソニックレーシング
 terraria,0,,,Terraria,,
@@ -196,6 +201,7 @@ tts99,0,,,Tetris 99,,
 tesvs,0,,,The Elder Scrolls V: Skyrim,,
 tlozbotw,0,,,The Legend of Zelda: Breath of the Wild,,ゼルダの伝説 ブレス オブ ザ ワイルド
 tlozla,0,,,The Legend of Zelda: Link's Awakening,,
+tlozsshd,0,,,The Legend of Zelda: Skyward Sword HD,,
 tlm2vg,0,,,The LEGO Movie 2 Videogame,,ゼルダの伝説 夢をみる島
 tlpatbp,0,,,The Liar Princess and the Blind Prince,,
 twewyfr,0,,,The World Ends with You: Final Remix,,
@@ -205,10 +211,10 @@ trlsmna,0,,,Trials of Mana,,聖剣伝説3
 trlsrsng,0,,,Trials Rising,,
 undtle,0,,,Undertale,,
 voidtvt,0,,,void tRrLM(); //Void Terrarium,,
-wwgit,0,,,WarioWare: Get It Together!,,おすそわける　メイドインワリオ
 wrfc,0,,,Warface,,
 wrfrm,0,,,Warframe,,
 wrgve,0,,,Wargroove,,
+wwgit,0,,,WarioWare: Get It Together!,,おすそわける　メイドインワリオ
 woffm,0,,,WORLD OF FINAL FANTASY: MAXIMA,,
 wrc8,0,,,WRC 8 FIA World Rally Championship,,
 xenoc2,0,,,Xenoblade Chronicles 2,,
@@ -220,7 +226,3 @@ ykalyle,0,,,Yooka-Laylee,,
 ylatil,0,,,Yooka-Laylee and the Impossible Lair,,
 yscw,0,,,Yoshi's Crafted World,,ヨッシークラフトワールド
 zmbatlg,0,,,Zombie Army Trilogy,,
-gbg,0,,,Game Builder Garage,,ナビつき! つくってわかる はじめてゲームプログラミング
-pkmbd,0,,,Pokémon Brilliant Diamond,,ポケットモンスター ブリリアントダイヤモンド
-pkmsp,0,,,Pokémon Shining Pearl,,ポケットモンスター シャイニングパール
-smtv,0,,,Shin Megami Tensei V,, 真・女神転生V
