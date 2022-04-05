@@ -6,63 +6,69 @@ Title database for https://github.com/ninstar/Rich-Presence-U.
 
 ## How to
 
-Below are links to the table of titles for each platform:
+Here are the list of games/softwares for each platform:
 
 - Wii U - [titles_wiiu.csv](/titles_wiiu.csv)
 - Nintendo Switch - [titles_nswitch.csv](/titles_nswitch.csv)
 - Nintendo 3DS - [titles_n3ds.csv](/titles_n3ds.csv)
 
-Each line is for a different title, regions are separated by columns:
+### Localizations
 
-- US - *Americas*
-- EU - *Europe*
-- JP - *Japan*
+Each line is for a different game/software, regions are separated by columns with the following prefixes:
 
-You must fill out at least one cell in one of the columns that end with sufix ``TITLE``. You can leave them blank if there's no different name for other regions.
+- **US** for America
+- **EU** for Europe
+- **JP** for Japan
 
-Example:
+You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions.
 
-| US_TITLE			| EU_TITLE			| JP_TITLE
-|-------------------|-------------------|--------------
-| Super Mario		|					| スーパーマリオ
+*Example*
 
-The first column (``INDEX``) is used to set a unique ID for the icon displayed on your status. **The file name of your icon should be the same** as the ``INDEX`` with a region identifier at the very ending.
+| ... | US_TITLE | EU_TITLE | JP_TITLE |
+| --- | --- | --- | --- |
+| ... | Super Mario |     | スーパーマリオ |
 
-Example:
+### Icons
 
-| INDEX	 | ... | US_TITLE	 | EU_TITLE	| JP_TITLE
-|--------|-----|-------------|----------|--------------
-| smario | ... | Super Mario |			| スーパーマリオ
+The very first column is used to set an unique identification for the icon associated with the game/software, the filename of the icon should be the same, but with a region sufix appended.
 
-If that case the filename for the icons should be:
+*Example:* For a game/software entry like this:
 
-- smario_us.png
-- smario_jp.png
+| INDEX | ... | US_TITLE | EU_TITLE | JP_TITLE |
+| --- | --- | --- | --- | --- |
+| smario | ... | Super Mario |     | スーパーマリオ |
 
-> You need an icon for at least one region.
+The filename of the icons should be like this:
 
-You can ignore all other columns, those are only set after your icons are uploaded to Developer's Portal.
+> smario_us.png
+> smario_jp.png
 
-After modifying a ``.csv``, you will have to include **a link for the icon of the newly added title in the description of your pull request**. The minimum accepted size is **512x512** pixels.
-- If the source image is too blurry or pixelated, the use of super-resolution for upscaling is preferable.
-- Icons must be 1:1 aspect ratio.
+Here are the **requirements** for submitting icons:
 
-☕ After that you will just have to be patient, I'll manually add your icon to the Discord Developer's Portal. You can find all icons uploaded so far on this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing).
+- You need an icon for at least one region.
+- The filename of the icon should be the same as the `INDEX` with a region suffix appended at the end.
+- The minimum accepted size is **512x512** pixels.
+- The aspect ratio must be **1:1** (Square).
+- If the source image is low-res, the use of super-resolution for upscaling is preferable.
 
-> ⚠ This repository is not meant for hosting icons, only the strings for the titles used by the application.
+> ⚠ This repository isn't meant for hosting icons, you will have to include **a link for the icon in the description of your pull request**.
+
+After making changes and submitting your pull request you will just have to be patient, I'll manually add the new icons to the *Discord Developer's Portal*. ☕
+
+> All approved icons are also uploaded to this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing) for easy public access.
 
 ## Credits
 
 All resources provided here were made possible thanks to the contribution of the following people:
 
-* Nin★ (NinStar)
-* Majesty
-* Sneethan
-* Lakelimbo
-* Luxen
-* CodeBarre
-* issey
-* Peach774
-* Sup3r-M4rio
-* ShadowzI
-* Schitzel9000
+- Nin★ (NinStar)
+- Majesty
+- Sneethan
+- Lakelimbo
+- Luxen
+- CodeBarre
+- issey
+- Peach774
+- Sup3r-M4rio
+- ShadowzI
+- Schitzel9000
