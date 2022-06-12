@@ -8,9 +8,9 @@ Title database for https://github.com/ninstar/Rich-Presence-U.
 
 Here are the list of games/softwares for each platform:
 
-- Wii U - [titles_wiiu.csv](/titles_wiiu.csv)
-- Nintendo Switch - [titles_nswitch.csv](/titles_nswitch.csv)
-- Nintendo 3DS - [titles_n3ds.csv](/titles_n3ds.csv)
+- Wii U - [wup.csv](titles/wup.csv)
+- Nintendo Switch - [hac.csv](titles/hac.csv)
+- Nintendo 3DS - [ctr.csv](titles/ctr.csv)
 
 ### Localizations
 
