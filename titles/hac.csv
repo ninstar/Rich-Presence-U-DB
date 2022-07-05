@@ -45,6 +45,7 @@ cxm,0,,,Collar x Malice,,
 cbnst,0,,,Crash Bandicoot N.Sane Trilogy,,
 ctrnf,0,,,Crash Team Racing: Nitro-Fueled,,
 crsnblast,0,,,Cruis'n Blast,,
+croll,0,,,Crunchyroll,,
 cuph,0,,,Cuphead,,
 dmnxmcn,0,,,DAEMON X MACHINA,,
 dgrp2gdae,0,,,Danganronpa 2: Goodbye Despair Anniversary Edition,,
@@ -77,8 +78,10 @@ dqblds2,0,,,DRAGON QUEST BUILDERS 2,,ドラゴンクエストビルダーズ2 �
 dqiilll,0,,,DRAGON QUEST II: Luminaries of the Legendary Line,,ドラゴンクエストII 悪霊の神々
 dqiiitss,0,,,DRAGON QUEST III: The Seeds of Salvation,,ドラゴンクエストIII そして伝説へ…
 dqxiseea,0,,,DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,,ドラゴンクエストXI 過ぎ去りし時を求めて S
+flgs,0,,,Fall Guys,,
 fexlink,0,,,Fate/EXTELLA LINK,,
 fextus,0,,,Fate/EXTELLA: The Umbral Star,,
+eaf19,0,,,FIFA 19,,
 ffix,0,,,FINAL FANTASY IX,,
 ffvii,0,,,FINAL FANTASY VII,,
 ffviiir,0,,,FINAL FANTASY VIII: Remastered,,
@@ -124,6 +127,7 @@ mglfsr,0,,,Mario Golf: Super Rush,,マリオゴルフ スーパーラッシュ
 mk8dx,0,,,Mario Kart 8 Deluxe,,マリオカート8 デラックス
 mklhc,0,,,Mario Kart Live: Home Circuit,,
 mpsups,0,,,Mario Party Superstars,,マリオパーティ スーパースターズ
+msblf,0,,,Mario Strikers™: Battle League,Mario Strikers™: Battle League Football,マリオストライカーズ: バトルリーグ
 mtaces,0,,,Mario Tennis Aces,,マリオテニス エース
 mm11,0,,,Mega Man 11,,
 mmlc,0,,,Mega Man Legacy Collection,,
@@ -151,6 +155,7 @@ nssprts,0,,,Nintendo Switch Sports,,
 nmh3,0,,,No More Heroes 3,,
 octptvl,0,,,Octopath Traveler,,
 oriatbf,0,,,Ori and the Blind Forest: Definitive Edition,,
+oatwotw,0,,,Ori and the Will of the Wisps,,
 owle,0,,,Overwatch: Legendary Edition,,
 pldns,0,,,Paladins,,
 pmtok,0,,,Paper Mario: The Origami King,,
@@ -189,8 +194,10 @@ sktt,0,,,Shovel Knight: Treasure Trove,,
 skgrl2e,0,,,Skullgirls 2nd Encore,,
 smite,0,,,SMITE,,
 scciot,0,,,"Snipperclips - Cut it out, together!",,
+snccu,0,,,Sonic Colors: Ultimate,Sonic Colours: Ultimate,ソニックカラーズ アルティメット
 sncfc,0,,,Sonic Forces,,ソニック フォース
 sncmn,0,,,Sonic Mania,,ソニックマニア
+sncog,0,,,Sonic Origins,,ソニックオリジンズ
 sptn2,0,,,Splatoon 2,,スプラトゥーン2
 spyrt,0,,,Spyro Reignited Trilogy,,
 stwvl,0,,,Stardew Valley,,
@@ -221,6 +228,7 @@ tmsfee,0,,,Tokyo Mirage Sessions #FE Encore,,
 thps12,0,,,Tony Hawk's Pro Skater 1 + 2,,
 trlsmna,0,,,Trials of Mana,,聖剣伝説3
 trlsrsng,0,,,Trials Rising,,
+ttv,0,,,Twitch,,
 undtle,0,,,Undertale,,
 voidtvt,0,,,void tRrLM(); //Void Terrarium,,
 wrfc,0,,,Warface,,
@@ -237,13 +245,6 @@ ytlncltn,0,,,Yomawari: The Long Night Collection,,
 ykalyle,0,,,Yooka-Laylee,,
 ylatil,0,,,Yooka-Laylee and the Impossible Lair,,
 yscw,0,,,Yoshi's Crafted World,,ヨッシークラフトワールド
-zmbatlg,0,,,Zombie Army Trilogy,,
-msblf,0,,,Mario Strikers™: Battle League,Mario Strikers™: Battle League Football,マリオストライカーズ: バトルリーグ
-oatwotw,0,,,Ori and the Will of the Wisps,,
-flgs,0,,,Fall Guys,,
-eaf19,0,,,FIFA 19,,
-ttv,0,,,Twitch,,
-croll,0,,,Crunchyroll,,
 gyt,0,,,YouTube,,
-snccu,0,,,Sonic Colors: Ultimate,Sonic Colours: Ultimate,ソニックカラーズ アルティメット
-sncog,0,,,Sonic Origins,,ソニックオリジンズ
+zmbatlg,0,,,Zombie Army Trilogy,,
+
