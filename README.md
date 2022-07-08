@@ -12,6 +12,8 @@ Here are the list of games/softwares for each platform:
 - Nintendo Switch - [hac.csv](titles/hac.csv)
 - Nintendo 3DS - [ctr.csv](titles/ctr.csv)
 
+> Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
+
 ### Localizations
 
 Each line is for a different game/software, regions are separated by columns with the following prefixes:
