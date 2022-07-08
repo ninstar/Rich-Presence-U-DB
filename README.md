@@ -34,7 +34,7 @@ The very first column is used to set an unique identification for the icon assoc
 
 *Example:* For a game/software entry like this:
 
-| INDEX | ... | US_TITLE | EU_TITLE | JP_TITLE |
+| ID | ... | US_TITLE | EU_TITLE | JP_TITLE |
 | --- | --- | --- | --- | --- |
 | smario | ... | Super Mario |     | スーパーマリオ |
 
@@ -46,7 +46,7 @@ The filename of the icons should be like this:
 Here are the **requirements** for submitting icons:
 
 - You need an icon for at least one region.
-- The filename of the icon should be the same as the `INDEX` with a region suffix appended at the end.
+- The filename of the icon should be the same as the `ID` with a region suffix appended at the end.
 - The minimum accepted size is **512x512** pixels.
 - The aspect ratio must be **1:1** (Square).
 - If the source image is low-res, the use of super-resolution for upscaling is preferable.
@@ -61,14 +61,16 @@ After making changes and submitting your pull request you will just have to be p
 
 All resources provided here were made possible thanks to the contribution of the following people:
 
-- Nin★ (NinStar)
+- NinStar
 - Majesty
 - Sneethan
 - Lakelimbo
 - Luxen
 - CodeBarre
 - issey
+- AbBrittus
 - Peach774
 - Sup3r-M4rio
 - ShadowzI
 - Schitzel9000
+- Zyliqx
