@@ -75,4 +75,6 @@ All resources provided here were made possible thanks to the contribution of the
 - Sup3r-M4rio
 - ShadowzI
 - Schitzel9000
+- teemerae
+- Zushi11
 - Zyliqx
