@@ -1,5 +1,6 @@
 ID,US,EU,JP,US TITLE,EU TITLE,JP TITLE
 atfji,0,,,Adventure Time: Finn & Jake Investigations,,
+atetd,0,,,Adventure Time: Explore the Dungeon Because I DON'T KNOW!,,
 aop,0,,,Adventures of Pip,,
 asa,0,,,Affordable Space Adventures,,
 atngb,0,,,amiibo tap: Nintendo's Greatest Bits,,タッチ!amiibo いきなりファミコン名シーン
@@ -37,13 +38,16 @@ ccd,0,,,Coaster Crazy Deluxe,,
 cq2,0,,,Costume Quest 2,,
 croll,0,,,Crunchyroll,,
 dswe,0,,,Darksiders Warmastered Edition,,
+dlog,0,,,Daily Log,,
 dehrdc,0,,,Deus Ex: Human Rev. Director's Cut,,
 dthd,0,,,Devil's Third,,
+demac,0,,,Demaecan,,
 dem2tpot,0,,,Disney Epic Mickey 2: The Power of Two,,
 dinft,0,,,Disney INFINITY,,
 dsge,0,,,Don't Starve: Giant Edition,,
 dkctf,0,,,Donkey Kong Country: Tropical Freeze,,ドンキーコング トロピカルフリーズ
 dta,0,,,Dot Arcade,,
+down,0,,,Download Managment,,
 drl,0,,,Dr. Luigi,,Dr.LUIGI & 細菌撲滅
 dualc,0,,,Dual Core,,
 dtrm,0,,,DuckTales: Remastered,,
@@ -52,7 +56,7 @@ elfom,0,,,Earthlock: Festival of Magic,,
 ecpl,0,,,ECTOPLAZA,,
 edge,0,,,EDGE,,
 eltq,0,,,Elliot Quest,,
-wes,0,,,eShop,,
+wes,0,,,Nintendo eShop,,
 f1rspue,0,,,F1 RACE STARS: Powered Up Edition,,
 ftn,0,,,FAST Racing NEO,,
 ffmobw,0,,,Fatal Frame: Maiden of Black Water,,
@@ -60,6 +64,7 @@ fs13,0,,,FIFA Soccer 13,,
 from,0,,,Frederic: Resurrection of Music,,
 freep,0,,,Freedom Planet,,
 fme,0,,,FreezeME,,
+frn,0,,,Friends List,,
 gaw,0,,,Game & Wario,,ポケモンスクランブル U
 getc,0,,,GetClose,,
 gstd,0,,,Giana Sisters: Twisted Dreams,,
@@ -69,6 +74,7 @@ gchdc,0,,,Gunman Clive HD Collection,,
 hkk,0,,,Hello Kitty© Kruisers,,
 hivej,0,,,Hive Jump,,
 zhw,0,,,Hyrule Warriors,,ゼルダ無双
+hupl,0,,,Hulu Plus
 igau,0,,,Injustice: Gods Among Us,,インジャスティス:神々(ヒーロー)の激突
 wib,0,,,Internet Browser,,
 idew,0,,,Ittle Dew,,
@@ -94,6 +100,7 @@ mn9,0,,,Mighty No. 9,,
 msf2,0,,,Mighty Switch Force!™ 2,,
 msfhde,0,,,Mighty Switch Force!™ Hyper Drive Edition,,マイティー スイッチ フォース!  ハイパードライブエディション
 wmm,0,,,Mii Maker,,
+olv,0,,,Miiverse,,
 msm,0,,,Minecraft: Story Mode,,
 mwe,0,,,Minecraft: Wii U Edition,,
 mmafac,0,,,Mini Mario & Friends: amiibo Challenge,,ミニマリオ ＆ フレンズ amiiboチャレンジ
@@ -105,17 +112,21 @@ nan,0,,,Nano Assault Neo,,ナノアサルト ネオ
 nfsmwu,0,,,Need for Speed™: Most Wanted U,,
 nesr,0,,,NES Remix,,ファミコンリミックス
 nesr2,0,,,NES Remix 2,,ファミコンリミックス 2
+nflix,0,,,Netflix,,
 naki,0,,,Never Alone (Kisima Ingitchuna),,
 nslu,0,,,New Super Luigi U,,New スーパールイージ U
 nsmbu,0,,,New Super Mario Bros. U,,New スーパーマリオブラザーズ U
 ng3re,0,,,Ninja Gaiden 3 Razor's Edge,,
 ninl,0,,,Nintendo Land,,
+tvii,0,,,Nintendo TVii,,
 nld,0,,,Noitu Love: Devolution,,
+inf,0,,,Notifications,,
 oddc,0,,,Octodad: Dadliest Catch,,
 oolli,0,,,OlliOlli,,
 opuwr,0,,,ONE PIECE: Unlimited World Red,,ワンピース アンリミテッドワールド R 
 pmatga,0,,,Pac-Man and the Ghostly Adventures,,パックワールド
 pmatga2,0,,,Pac-Man and the Ghostly Adventures 2,,パックワールド2
+parent,0,,,Parental Controls
 pmcs,0,,,Paper Mario: Color Splash,,ペーパーマリオ カラースプラッシュ
 pafqfcs,0,,,Phineas and Ferb: Quest for Cool Stuff,,
 psatga,0,,,Pier Solar and the Great Architects,,
@@ -154,6 +165,7 @@ slimg,0,,,Skylanders™ Imaginators,,
 slsc,0,,,Skylanders™ SuperChargers,,
 slsf,0,,,Skylanders™ SWAP Force,,
 sltt,0,,,Skylanders™ Trap Team,,
+sys,0,,,System Settings,,
 sbpb,0,,,SmileBASIC,,プチコンBIG
 sasrt,0,,,Sonic & All-Stars Racing Transformed,,
 sbrol,0,,,Sonic Boom: Rise of Lyric,,
@@ -201,7 +213,9 @@ wvc,0,,,Virtual Console,,
 vxlm,0,,,VoxelMaker,,
 wo3,0,,,Warriors Orochi 3,,
 wds,0,,,Watch_Dogs,,
-wwm,0,,,Wii,,
+wwm,0,,,Wii Menu,,
+wmen,0,,,Wii U Menu
+trns,0,,,Software/Data Transfer
 wfu,0,,,Wii Fit U,,
 wpu,0,,,Wii Party U,,
 wsc,0,,,Wii Sports Club,,
