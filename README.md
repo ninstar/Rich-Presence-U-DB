@@ -14,7 +14,7 @@ Here are the list of games/softwares for each platform:
 
 > Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
 
-Columns with numbered cells between (columns 2, 3 and 4 from left-to-right) should be ignored and left empty as [they are filled after an icon is added to an application client](#addition-process).
+Cells in columns 2, 3 and 4 (from left-to-right) should be ignored and left empty as [they are filled after an icon is added to an application client](#addition-process).
 
 ### Localizations
 
@@ -67,9 +67,9 @@ Applying this to example above, only ``smario_us.png`` would be required.
 
 ## Addition process
 
-After making the changes and submitting your pull request you will just have to be patient, I'll manually add the new icons to an application client in the Discord Developer's Portal, after that is done I'll set the client indexes to the corresponding **columns with numbered cells**.
+After making the changes and submitting your pull request you will just have to be patient, I'll manually add the new icons to an application client in the Discord Developer's Portal, after that is done I'll set the client indexes to the corresponding cells (columns 2, 3 and 4).
 
-The reason why this is done is because each application client has a limit of 300 icons (minus two considering the tooltip image for friend codes and the default platform logo for in-app custom entries), icons are distributed to the clients with available slots and these numbered cells represent the index of the Discord application client that the icon is hosted, the list of client IDs for each platform and their respective indexes can be found in the [clients.cfg](clients.cfg)
+The reason why this is done is because each application client has a limit of 300 icons (minus two considering the tooltip image for friend codes and the default platform logo for in-app custom entries), icons are distributed to the clients with available slots and these numbered cells represent the index of the Discord application client the icon is hosted, the list of client IDs for each platform and their respective indexes can be found in the [clients.cfg](clients.cfg)
 
 > Approved icons are also added to this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing) for easy public access, they are separated by their assigned clients.
 
