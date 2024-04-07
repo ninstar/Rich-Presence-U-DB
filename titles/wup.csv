@@ -5,6 +5,7 @@ asa,0,,,Affordable Space Adventures,,
 atngb,0,,,amiibo tap: Nintendo's Greatest Bits,,タッチ!amiibo いきなりファミコン名シーン
 abt,0,,,Angry Birds Trilogy,,
 avgna,0,,,Angry Video Game Nerd Adventures,,
+acaf,0,,,Animal Crossing: amiibo Festival,,どうぶつの森 amiiboフェスティバル
 awootw,0,,,Another World Out of This World,,
 acs,0,,,Aperion Cyberstorm,,
 amru,0,,,Aqua Moto Racing Utopia,,
@@ -16,9 +17,9 @@ aciii,0,,,Assassin's Creed III,,
 acivbf,0,,,Assassin's Creed IV Black Flag,,
 axve,0,,,Axiom Verge,,
 btb,0,,,Back to Bed,,
+bao,0,,,Batman Arkham Origins,,
 bacae,0,,,Batman: Arkham City Armored Edition,,バットマン:アーカム･シティ アーマード･エディション
 baobgde,0,,,Batman: Arkham Origins Blackgate - Deluxe Edition,,
-bao,0,,,Batman Arkham Origins,,
 byo1,0,,,Bayonetta,,
 byo2,0,,,Bayonetta 2,,
 brudxwt,0,,,Bike Rider Ultra DX - WORLD TOUR,,
@@ -48,11 +49,11 @@ drl,0,,,Dr. Luigi,,Dr.LUIGI & 細菌撲滅
 dualc,0,,,Dual Core,,
 dtrm,0,,,DuckTales: Remastered,,
 ddcom,0,,,Dungeons & Dragons: Chronicles of Mystara,,
+vcmother2,0,,0,EarthBound,,MOTHER2 ギーグの逆襲
+vcmother,0,,0,EarthBound Beginnings,,MOTHER
 elfom,0,,,Earthlock: Festival of Magic,,
 ecpl,0,,,ECTOPLAZA,,
 edge,0,,,EDGE,,
-vcmother2,0,,0,EarthBound,,MOTHER2 ギーグの逆襲
-vcmother,0,,0,EarthBound Beginnings,,MOTHER
 eltq,0,,,Elliot Quest,,
 wes,0,,,eShop,,
 f1rspue,0,,,F1 RACE STARS: Powered Up Edition,,
@@ -87,7 +88,7 @@ lth,0,,,LEGO The Hobbit,,
 linf,0,,,Little Inferno,,
 maso16,0,,,Mario & Sonic at the Rio 2016 Olympic Games,,マリオ&ソニック AT リオオリンピック
 maso14,0,,,Mario & Sonic at the Sochi 2014 Olympic Winter Games,,マリオ＆ソニック AT ソチオリンピック
-mk8,0,,,Mario Kart 8,,マリオカート8 
+mk8,0,,,Mario Kart 8,,マリオカート8
 mp10,0,,,Mario Party 10,,マリオパーティ10
 mtus,0,,,Mario Tennis: Ultra Smash,,マリオテニス ウルトラスマッシュ
 mvdkts,0,,,Mario vs. Donkey Kong: Tipping Stars,,マリオvs.ドンキーコング みんなでミニランド
@@ -100,7 +101,6 @@ msm,0,,,Minecraft: Story Mode,,
 mwe,0,,,Minecraft: Wii U Edition,,
 mmafac,0,,,Mini Mario & Friends: amiibo Challenge,,ミニマリオ ＆ フレンズ amiiboチャレンジ
 mh3u,0,,,Monster Hunter 3 Ultimate,,モンスターハンター3(トライ)G HD Ver.
-vcmother3,,,0,,,MOTHER3
 mrpa,0,,,Mr.Pumpkin Adventure,,
 mmd,0,,,Mutant Mudds Deluxe,,
 mmdsc,0,,,Mutant Mudds Super Challenge,,
@@ -158,8 +158,8 @@ slsc,0,,,Skylanders SuperChargers,,
 slsf,0,,,Skylanders SWAP Force,,
 sltt,0,,,Skylanders Trap Team,,
 sbpb,0,,,SmileBASIC,,プチコンBIG
-sasrt,0,,,Sonic & All-Stars Racing Transformed,,
-sbrol,0,,,Sonic Boom: Rise of Lyric,,
+sasrt,0,,,Sonic & All-Stars Racing Transformed,,ソニック&オールスターレーシング TRANSFORMED
+sbrol,0,,,Sonic Boom: Rise of Lyric,,ソニックトゥーン 太古の秘宝
 slw,0,,,Sonic Lost World,,ソニック ロストワールド
 hbsm,0,,,Sonic Mania,,
 stbbp,0,,,Spin the Bottle: Bumpie's Party,,わいわい!みんなでチャレンジ
@@ -214,3 +214,4 @@ yww,0,,,Yoshi's Woolly World,,ヨッシー ウールワールド
 gyt,0,,,YouTube,,
 zpb2,0,,,Zen Pinball 2,,
 zmbu,0,,,ZombiU,,ゾンビU
+vcmother3,,,0,,,MOTHER3

@@ -1,8 +1,8 @@
 ID,US,EU,JP,US TITLE,EU TITLE,JP TITLE
 t2048,0,,,2048,,
-achhd,0,,,Animal Crossing: Happy Home Designer,,
-acnl,0,,,Animal Crossing: New Leaf,,
-acnlwa,0,,,Animal Crossing: New Leaf - Welcome amiibo,,
+achhd,0,,,Animal Crossing: Happy Home Designer,,どうぶつの森 ハッピーホームデザイナー
+acnl,0,,,Animal Crossing: New Leaf,,とびだせ どうぶつの森
+acnlwa,0,,,Animal Crossing: New Leaf - Welcome amiibo,,とびだせ どうぶつの森 amiibo+
 ajaa,0,,,Apollo Justice: Ace Attorney,,
 argms,0,,,AR Games,,
 aalfe,0,,,Art Academy: Lessons for Everyone!,,
@@ -43,41 +43,41 @@ hm3dttttp,0,,,Harvest Moon 3D: The Tale of Two Towns,,
 hm3dttttp,0,,,Harvest Moon 3D: The Tale of Two Towns+,,
 hmpmdx,0,,,Hatsune Miku: Project Mirai DX,,
 heypkm,0,,,Hey! Pikmin,,
-hrlwrsl,0,,,Hyrule Warriors Legends,,
+hrlwrsl,0,,,Hyrule Warriors Legends,,ゼルダ無双 ハイラルオールスターズ
 izelvn,0,,,Inazuma Eleven,,イナズマイレブン
 izelvngo1s,0,,,,Inazuma Eleven GO: Light,イナズマイレブンGO シャイン
 izelvngo1d,0,,,,Inazuma Eleven GO: Shadow,イナズマイレブンGO ダーク
 izelvngo2n,0,,,,Inazuma Eleven GO: Chrono Stones: Wildfire,イナズマイレブンGO2 クロノ・ストーン ネップウ
 izelvngo2r,0,,,,Inazuma Eleven GO: Chrono Stones: Thunderflash,イナズマイレブンGO2 クロノ・ストーン ライメイ
-izelvngo3b,0,,,,,イナズマイレブンGO ギャラクシー ビッグバン
-izelvngo3s,0,,,,,イナズマイレブンGO ギャラクシー スーパーノヴァ
+izelvngo3b,0,,,,Inazuma Eleven GO: Galaxy Big Bang,イナズマイレブンGO ギャラクシー ビッグバン
+izelvngo3s,0,,,,Inazuma Eleven GO: Galaxy Supernova,イナズマイレブンGO ギャラクシー スーパーノヴァ
 jhdsgod,0,,,Jake Hunter Detective Story: Ghost of Dusk,,
 kiupsg,0,,,Kid Icarus: Uprising,,
 kh3ddd,0,,,Kingdom Hearts 3D: Dream Drop Distance,,
-kbbryl,0,,,Kirby Battle Royale,,
-kbprb,0,,,Kirby: Planet Robobot,,
-kbtdx,0,,,Kirby: Triple Deluxe,,
-keey,0,,,Kirby's Extra Epic Yarn,,
+kbbryl,0,,,Kirby Battle Royale,,カービィ バトルデラックス!
+kbprb,0,,,Kirby: Planet Robobot,,星のカービィ ロボボプラネット
+kbtdx,0,,,Kirby: Triple Deluxe,,星のカービィ トリプルデラックス
+keey,0,,,Kirby's Extra Epic Yarn,,毛糸のカービィ プラス
 lcuctcb,0,,,LEGO City Undercover: The Chase Begins,,
 lswtfa,0,,,LEGO Star Wars: The Force Awakens,,
 lbrtnmdn,0,,,LIBERATION MAIDEN,,
 lmsn,0,,,Luigi's Mansion,,
-lmsn2,0,,,Luigi's Mansion: Dark Moon,Luigi's Mansion 2,
-mlbisdx,0,,,Mario & Luigi: Bowser's Inside Story DX,,
-mldtb,0,,,Mario & Luigi: Dream Team,,
-mlpjb,0,,,Mario & Luigi: Paper Jam,,
-mlsssdx,0,,,Mario & Luigi: Superstar Saga DX,,
-masog12,0,,,Mario & Sonic at the London 2012 Olympic Games,,
-masog16,0,,,Mario & Sonic at the Rio 2016 Olympic Games,,
-mvdkmm,0,,,Mario and Donkey Kong: Minis on the Move,,
-mglfwt,0,,,Mario Golf: World Tour,,
-mk7,0,,,Mario Kart 7,,
-mprtyit,0,,,Mario Party: Island Tour,,
-mprtyss,0,,,Mario Party: Star Rush,,
-mprtytth,0,,,Mario Party: The Top 100,,
-msss,0,,,Mario Sports Superstars,,
-mtopen,0,,,Mario Tennis Open,,
-mvdkts,0,,,Mario vs. Donkey Kong: Tipping Stars,,
+lmsn2,0,,,Luigi's Mansion: Dark Moon,Luigi's Mansion 2,ルイージマンション2
+mlbisdx,0,,,Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,,マリオ＆ルイージRPG3 DX
+mldtb,0,,,Mario & Luigi: Dream Team,Mario & Luigi: Dream Team Bros.,マリオ＆ルイージRPG4 ドリームアドベンチャー
+mlpjb,0,,,Mario & Luigi: Paper Jam,Mario & Luigi: Paper Jam Bros.,マリオ＆ルイージRPG ペーパーマリオMIX
+mlsssdx,0,,,Mario & Luigi: Superstar Saga + Bowser's Minions,,マリオ＆ルイージRPG1 DX
+masog12,0,,,Mario & Sonic at the London 2012 Olympic Games,,マリオ&ソニック AT ロンドンオリンピック
+masog16,0,,,Mario & Sonic at the Rio 2016 Olympic Games,,マリオ&ソニック AT リオオリンピック
+mvdkmm,0,,,Mario and Donkey Kong: Minis on the Move,,マリオ AND ドンキーコング ミニミニカーニバル
+mglfwt,0,,,Mario Golf: World Tour,,マリオゴルフ ワールドツアー
+mk7,0,,,Mario Kart 7,,マリオカート7
+mprtyit,0,,,Mario Party: Island Tour,,マリオパーティアイランドツアー
+mprtyss,0,,,Mario Party: Star Rush,,マリオパーティ スターラッシュ
+mprtytth,0,,,Mario Party: The Top 100,,マリオパーティ100 ミニゲームコレクション
+msss,0,,,Mario Sports Superstars,, マリオスポーツ スーパースターズ
+mtopen,0,,,Mario Tennis Open,,マリオテニス オープン
+mvdkts,0,,,Mario vs. Donkey Kong: Tipping Stars,,マリオvs.ドンキ—コング みんなでミニランド
 mmlc,0,,,Mega Man Legacy Collection,,
 mgsse3d,0,,,Metal Gear Solid: Snake Eater 3D,,
 msr,0,,,Metroid: Samus Returns,,
@@ -90,7 +90,7 @@ mh3u,0,,,Monster Hunter 3 Ultimate,,
 mh4u,0,,,Monster Hunter 4 Ultimate,,
 mhg,0,,,Monster Hunter Generations,,
 mhs,0,,,Monster Hunter Stories,,
-nsmb2,0,,,New Super Mario Bros. 2,,
+nsmb2,0,,,New Super Mario Bros. 2,,New スーパーマリオブラザーズ 2
 nbdac,0,,,Nintendo Badge Arcade,,
 ndctpnf,0,,,Nintendogs + Cats: Toy Poodle & New Friends,,
 pmss,0,,,Paper Mario: Sticker Star,,
@@ -99,28 +99,28 @@ pq2ncl,0,,,Persona Q2: New Cinema Labyrinth,,
 pwaadd,0,,,Phoenix Wright: Ace Attorney - Dual Destinies,,
 pwaasj,0,,,Phoenix Wright: Ace Attorney - Spirit of Justice,,
 pwaat,0,,,Phoenix Wright: Ace Attorney Trilogy,,
-pwac,0,,,Photos with Animal Crossing,,
-pwm,0,,,Photos with Mario,,
+pwac,0,,,Photos with Animal Crossing,,いっしょにフォト どうぶつの森
+pwm,0,,,Photos with Mario,,いっしょにフォト スーパーマリオ
 pwrst,0,,,PilotWings Resort,,
-pkmas,0,,,Pokémon Alpha Sapphire,,
-pkmaa,0,,,Pokémon Art Academy,,
-pkmm,0,,,Pokémon Moon,,
-pkmor,0,,,Pokémon Omega Ruby,,
-pkmpcs,0,,,Pokémon Picross,,
-pkmrb,0,,,Pokémon Rumble Blast,,
-pkmrw,0,,,Pokémon Rumble World,,
-pkmsfl,0,,,Pokémon Shuffle,,
-pkms,0,,,Pokémon Sun,,
-pkmsmd,0,,,Pokémon Super Mystery Dungeon,,
-pkmum,0,,,Pokémon Ultra Moon,,
-pkmus,0,,,Pokémon Ultra Sun,,
-pkmx,0,,,Pokémon X,,
-pkmy,0,,,Pokémon Y,,
-pysww,0,,,Poochy & Yoshi's Woolly World,,
+pkmas,0,,,Pokémon Alpha Sapphire,,ポケットモンスター アルファサファイア
+pkmaa,0,,,Pokémon Art Academy,,ポケモン アートアカデミー
+pkmm,0,,,Pokémon Moon,,ポケットモンスタームーン
+pkmor,0,,,Pokémon Omega Ruby,,ポケットモンスター オメガルビー
+pkmpcs,0,,,Pokémon Picross,,ポケモンピクロス
+pkmrb,0,,,Pokémon Rumble Blast,,スーパーポケモンスクランブル
+pkmrw,0,,,Pokémon Rumble World,,みんなのポケモンスクランブル
+pkmsfl,0,,,Pokémon Shuffle,,ポケとる
+pkms,0,,,Pokémon Sun,,ポケットモンスターサン
+pkmsmd,0,,,Pokémon Super Mystery Dungeon,,ポケモン超不思議のダンジョン
+pkmum,0,,,Pokémon Ultra Moon,,ポケットモンスター ウルトラムーン
+pkmus,0,,,Pokémon Ultra Sun,,ポケットモンスター ウルトラサン
+pkmx,0,,,Pokémon X,,ポケットモンスターX
+pkmy,0,,,Pokémon Y,,ポケットモンスターY
+pysww,0,,,Poochy & Yoshi's Woolly World,,ポチと！ ヨッシー ウールワールド
 platal,0,,,Professor Layton and the Azran Legacy,,
 platmm,0,,,Professor Layton and the Miracle Mask,,
 plvpwaa,0,,,Professor Layton vs. Phoenix Wright: Ace Attorney,,
-phsm,0,,,Pushmo,,
+phsm,0,,,Pushmo,,引ク押ス
 ppchncl,0,,,Puyo Puyo Chronicle,,
 pptrs,0,,,Puyo Puyo Tetris,,
 rahispc,0,,,Radiant Historia: Perfect Chronology,,
@@ -137,19 +137,19 @@ smtdso,0,,,Shin Megami Tensei: Devil Survivor Overclocked,,
 smtsjr,0,,,Shin Megami Tensei: Strange Journey Redux,,
 skngt,0,,,Shovel Knight,,
 sbsc,0,,,SmileBASIC,,
-sasrt,0,,,Sonic & All-Stars Racing Transformed,,
-sncbfi,0,,,Sonic Boom: Fire & Ice,,
-sncbsc,0,,,Sonic Boom: Shattered Crystal,,
-sncg,0,,,Sonic Generations,,
-snclw,0,,,Sonic Lost World,,
-sf643d,0,,,Star Fox 64 3D,,
+sasrt,0,,,Sonic & All-Stars Racing Transformed,,ソニック&オールスターレーシング TRANSFORMED
+sncbfi,0,,,Sonic Boom: Fire & Ice,,ソニックトゥーンファイアー＆アイス
+sncbsc,0,,,Sonic Boom: Shattered Crystal,,ソニックトゥーン アイランドアドベンチャー
+sncg,0,,,Sonic Generations,,ソニック ジェネレーションズ
+snclw,0,,,Sonic Lost World,,ソニック ロストワールド
+sf643d,0,,,Star Fox 64 3D,,スターフォックス64 3D
 strossns,0,,,STORY OF SEASONS,,
 strossnstot,0,,,STORY OF SEASONS: Trio of Towns,,
-sm3dl,0,,,Super Mario 3D Land,,
-smm3ds,0,,,Super Mario Maker for Nintendo 3DS,,
+sm3dl,0,,,Super Mario 3D Land,,スーパーマリオ3Dランド
+smm3ds,0,,,Super Mario Maker for Nintendo 3DS,, スーパーマリオメーカー for Nintendo 3DS
 smb3d,0,,,Super Monkey Ball 3D,,
-ssb4,0,,,Super Smash Bros. For Nintendo 3DS,,
-ssfiv3de,0,,,Super Street Fighter IV: 3D Edition,,
+ssb4,0,,,Super Smash Bros. for Nintendo 3DS,,大乱闘スマッシュブラザーズ for Nintendo 3DS
+ssfiv3de,0,,,Super Street Fighter IV: 3D Edition,,スーパーストリートファイターIV 3D EDITION
 sstwos,0,,,Sushi Striker: The Way of Sushido,,
 tra,0,,,Terraria,,
 trsu,0,,,Tetris Ultimate,,
