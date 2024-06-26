@@ -1,4 +1,5 @@
 ID,US,EU,JP,US TITLE,EU TITLE,JP TITLE
+hblud,2,,,#BLUD,,
 otsw,0,,,1-2-Switch,,
 ttsntlsar,2,,,13 Sentinels: Aegis Rim,, 十三機兵防衛圏 
 ahit,0,,,A Hat in Time,,
@@ -19,7 +20,7 @@ aspt9l,0,,,Asphalt 9: Legends,,
 aciiirmst,0,,,Assassin's Creed III: Remastered,,
 actecltn,0,,,Assassin's Creed The Ezio Collection,,
 actrcltn,0,,,Assassin’s Creed: The Rebel Collection,,
-astchn,0,,,Astral Chain,,ASTRAL CHAIN (アストラルチェイン)
+astchn,0,,,Astral Chain,,アストラルチェイン
 aataoddx,0,,,Atelier Ayesha: The Alchemist of Dusk DX,,
 aelaotdsdx,0,,,Atelier Escha & Logy: Alchemists of the Dusk Sky DX,,
 altsoa,0,,,Atelier Lulua ~The Scion of Arland~,,
@@ -324,15 +325,15 @@ mtaces,0,,,Mario Tennis Aces,,マリオテニス エース
 mvsdk,2,,,Mario Vs. Donkey Kong,,マリオVSドンキーコング
 marooners,1,,,Marooners,,
 marvelua3tbo,1,,,MARVEL ULTIMATE ALLIANCE 3: The Black Order,,
-mm11,0,,,Mega Man 11,,
-mmbf,1,,,MEGA MAN BATTLE & FIGHTERS,,
-mmbnlcv1,1,,,Mega Man Battle Network Legacy Collection Vol. 1,,
-mmbnlcv2,1,,,Mega Man Battle Network Legacy Collection Vol. 2,,
-mmlc,0,,,Mega Man Legacy Collection,,
-mmlc2,0,,,Mega Man Legacy Collection 2,,
-mmxlc,0,,,Mega Man X Legacy Collection,,
-mmxlc2,0,,,Mega Man X Legacy Collection 2,,
-mmzxlc,0,,,Mega Man Zero/ZX Legacy Collection,,
+mm11,0,,,Mega Man 11,,ロックマン11 運命の歯車!!
+mmbf,1,,,MEGA MAN BATTLE & FIGHTERS,,ロックマン バトル＆ファイターズ
+mmbnlcv1,1,,,Mega Man Battle Network Legacy Collection Vol. 1,,ロックマンエグゼ アドバンスドコレクション Vol.1
+mmbnlcv2,1,,,Mega Man Battle Network Legacy Collection Vol. 2,,ロックマンエグゼ アドバンスドコレクション Vol.2
+mmlc,0,,,Mega Man Legacy Collection,,ロックマン クラシックス コレクション
+mmlc2,0,,,Mega Man Legacy Collection 2,,ロックマン クラシックス コレクション2
+mmxlc,0,,,Mega Man X Legacy Collection,,ロックマンX アニバーサリー コレクション
+mmxlc2,0,,,Mega Man X Legacy Collection 2,,ロックマンX アニバーサリー コレクション2
+mmzxlc,0,,,Mega Man Zero/ZX Legacy Collection,,ロックマン ゼロ&ゼクス ダブルヒーローコレクション
 mdnptnvii,1,,,Megadimension Neptunia VII,,新次元ゲイム ネプテューヌVII
 mgmg2ss,1,,,Metal Gear & Metal Gear 2: Solid Snake,,
 mgs,1,,,METAL GEAR SOLID,,
@@ -562,8 +563,9 @@ smprty,0,,,Super Mario Party,,スーパー マリオパーティ
 smrpg,1,,,Super Mario RPG,,スーパーマリオRPG
 smeatboy,1,,,Super Meat Boy,,
 smeatboyf,1,,,Super Meat Boy Forever,,
-smbbm,1,,,Super Monkey Ball Banana Mania,,
-smbbbhd,1,,,Super Monkey Ball: Banana Blitz HD,,
+smbbm,1,,,Super Monkey Ball Banana Mania,,たべごろ! スーパーモンキーボール 1&2リメイク
+smbbr,2,,,Super Monkey Ball Banana Rumble,,スーパーモンキーボール バナナランブル
+smbbbhd,1,,,Super Monkey Ball: Banana Blitz HD,,たべごろ! スーパーモンキーボール
 swsnes,0,0,0,Super Nintendo Entertainment System - Nintendo Switch Online,Super Nintendo Entertainment System - Nintendo Switch Online,スーパーファミコン Nintendo Switch Online
 sprpncptrl,1,,,Super Punch Patrol,,
 ssbu,0,,,Super Smash Bros. Ultimate,,大乱闘スマッシュブラザーズ SPECIAL
@@ -650,7 +652,7 @@ xel,0,,,XEL,,
 xenoc2,0,,,Xenoblade Chronicles 2,,ゼノブレイド2
 xc2ttgc,0,,,Xenoblade Chronicles 2: Torna - The Golden Country,,ゼノブレイド2 黄金の国イーラ
 xenoc3,0,,,Xenoblade Chronicles 3,,ゼノブレイド3
-xenocde,0,,,Xenoblade Chronicles: Definitive Edition,,
+xenocde,0,,,Xenoblade Chronicles: Definitive Edition,,ゼノブレイド ディフィニティブ・エディション
 xnnvlkr,0,,,Xenon Valkyrie+,,
 ytlncltn,0,,,Yomawari: The Long Night Collection,,
 ykalyle,0,,,Yooka-Laylee,,
