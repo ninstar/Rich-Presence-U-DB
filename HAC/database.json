@@ -4,7 +4,7 @@
 	"code": "HAC",
 	"id": {
 		"text": "Friend Code",
-		"numeric": TRUE,
+		"numeric": true,
 		"prefix": "SW-",
 		"length": 12
 	},
