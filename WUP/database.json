@@ -1,5 +1,5 @@
 {
-	"client": 1259966953573847130,
+	"client": "1259966953573847130",
 	"system": "Wii U",
 	"code": "WUP",
 	"id": {
@@ -10,719 +10,1145 @@
 	},
 	"url": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/assets/",
 	"extension": "jpg",
-	"softwares": {
+	"software": {
 		"adventure_time_finn_and_jake_investigations": {
-			"en": "Adventure Time: Finn & Jake Investigations"
+			"title": {
+				"en": "Adventure Time: Finn & Jake Investigations"
+			}
 		},
 		"adventures_of_pip": {
-			"en": "Adventures of Pip"
+			"title": {
+				"en": "Adventures of Pip"
+			}
 		},
 		"affordable_space_adventures": {
-			"en": "Affordable Space Adventures"
+			"title": {
+				"en": "Affordable Space Adventures"
+			}
 		},
 		"amiibo_tap_nintendos_greatest_bits": {
-			"en": "amiibo tap: Nintendo's Greatest Bits",
-			"ja": "タッチ!amiibo いきなりファミコン名シーン"
+			"title": {
+				"en": "amiibo tap: Nintendo's Greatest Bits",
+				"ja": "タッチ!amiibo いきなりファミコン名シーン"
+			}
 		},
 		"angry_birds_trilogy": {
-			"en": "Angry Birds Trilogy"
+			"title": {
+				"en": "Angry Birds Trilogy"
+			}
 		},
 		"angry_video_game_nerd_adventures": {
-			"en": "Angry Video Game Nerd Adventures"
+			"title": {
+				"en": "Angry Video Game Nerd Adventures"
+			}
 		},
 		"animal_crossing_amiibo_festival": {
-			"en": "Animal Crossing: amiibo Festival",
-			"ja": "どうぶつの森 amiiboフェスティバル"
+			"title": {
+				"en": "Animal Crossing: amiibo Festival",
+				"ja": "どうぶつの森 amiiboフェスティバル"
+			}
 		},
 		"another_world_out_of_this_world": {
-			"en": "Another World Out of This World"
+			"title": {
+				"en": "Another World Out of This World"
+			}
 		},
 		"aperion_cyberstorm": {
-			"en": "Aperion Cyberstorm"
+			"title": {
+				"en": "Aperion Cyberstorm"
+			}
 		},
 		"aqua_moto_racing_utopia": {
-			"en": "Aqua Moto Racing Utopia"
+			"title": {
+				"en": "Aqua Moto Racing Utopia"
+			}
 		},
 		"aqua_tv": {
-			"en": "AquaTV"
+			"title": {
+				"en": "AquaTV"
+			}
 		},
 		"armikrog": {
-			"en": "Armikrog"
+			"title": {
+				"en": "Armikrog"
+			}
 		},
 		"art_academy_home_studio": {
-			"en": "Art Academy: Home Studio",
-			"en_GB": "Art Academy: Atelier"
+			"title": {
+				"en": "Art Academy: Home Studio",
+				"en_GB": "Art Academy: Atelier"
+			}
 		},
 		"art_of_balance": {
-			"en": "Art of Balance",
-			"ja": "アートオブバランス"
+			"title": {
+				"en": "Art of Balance",
+				"ja": "アートオブバランス"
+			}
 		},
 		"assassins_creed_iii": {
-			"en": "Assassin's Creed III"
+			"title": {
+				"en": "Assassin's Creed III"
+			}
 		},
 		"assassins_creed_iv_black_flag": {
-			"en": "Assassin's Creed IV Black Flag"
+			"title": {
+				"en": "Assassin's Creed IV Black Flag"
+			}
 		},
 		"axiom_verge": {
-			"en": "Axiom Verge"
+			"title": {
+				"en": "Axiom Verge"
+			}
 		},
 		"back_to_bed": {
-			"en": "Back to Bed"
+			"title": {
+				"en": "Back to Bed"
+			}
 		},
 		"batman_arkham_origins": {
-			"en": "Batman Arkham Origins"
+			"title": {
+				"en": "Batman Arkham Origins"
+			}
 		},
 		"batman_arkham_city_armored_edition": {
-			"en": "Batman: Arkham City Armored Edition",
-			"ja": "バットマン:アーカム･シティ アーマード･エディション"
+			"title": {
+				"en": "Batman: Arkham City Armored Edition",
+				"ja": "バットマン:アーカム･シティ アーマード･エディション"
+			}
 		},
 		"batman_arkham_origins_blackgate_deluxe_edition": {
-			"en": "Batman: Arkham Origins Blackgate - Deluxe Edition"
+			"title": {
+				"en": "Batman: Arkham Origins Blackgate - Deluxe Edition"
+			}
 		},
 		"bayonetta": {
-			"en": "Bayonetta"
+			"title": {
+				"en": "Bayonetta"
+			}
 		},
 		"bayonetta_2": {
-			"en": "Bayonetta 2"
+			"title": {
+				"en": "Bayonetta 2"
+			}
 		},
 		"bike_rider_ultra_dx_world_tour": {
-			"en": "Bike Rider Ultra DX - WORLD TOUR"
+			"title": {
+				"en": "Bike Rider Ultra DX - WORLD TOUR"
+			}
 		},
 		"bombing_bastards": {
-			"en": "Bombing Bastards"
+			"title": {
+				"en": "Bombing Bastards"
+			}
 		},
 		"brick_breaker": {
-			"en": "Brick Breaker"
+			"title": {
+				"en": "Brick Breaker"
+			}
 		},
 		"call_of_duty_black_ops_ii": {
-			"en": "Call of Duty: Black Ops II"
+			"title": {
+				"en": "Call of Duty: Black Ops II"
+			}
 		},
 		"call_of_duty_ghosts": {
-			"en": "Call of Duty: Ghosts"
+			"title": {
+				"en": "Call of Duty: Ghosts"
+			}
 		},
 		"captain_toad_treasure_tracker": {
-			"en": "Captain Toad: Treasure Tracker",
-			"ja": "進め!キノピオ隊長"
+			"title": {
+				"en": "Captain Toad: Treasure Tracker",
+				"ja": "進め!キノピオ隊長"
+			}
 		},
 		"cars_3_driven_to_win": {
-			"en": "Cars 3: Driven to Win"
+			"title": {
+				"en": "Cars 3: Driven to Win"
+			}
 		},
 		"castle_storm": {
-			"en": "CastleStorm"
+			"title": {
+				"en": "CastleStorm"
+			}
 		},
 		"chariot": {
-			"en": "Chariot"
+			"title": {
+				"en": "Chariot"
+			}
 		},
 		"chasing_aurora": {
-			"en": "Chasing Aurora"
+			"title": {
+				"en": "Chasing Aurora"
+			}
 		},
 		"child_of_light": {
-			"en": "Child of Light"
+			"title": {
+				"en": "Child of Light"
+			}
 		},
 		"cloudberry_kingdom": {
-			"en": "Cloudberry Kingdom"
+			"title": {
+				"en": "Cloudberry Kingdom"
+			}
 		},
 		"coaster_crazy_deluxe": {
-			"en": "Coaster Crazy Deluxe"
+			"title": {
+				"en": "Coaster Crazy Deluxe"
+			}
 		},
 		"costume_quest_2": {
-			"en": "Costume Quest 2"
+			"title": {
+				"en": "Costume Quest 2"
+			}
 		},
 		"crunchyroll": {
-			"en": "Crunchyroll"
+			"title": {
+				"en": "Crunchyroll"
+			}
 		},
 		"darksiders_warmastered_edition": {
-			"en": "Darksiders Warmastered Edition"
+			"title": {
+				"en": "Darksiders Warmastered Edition"
+			}
 		},
 		"deus_ex_human_rev_directors_cut": {
-			"en": "Deus Ex: Human Rev. Director's Cut"
+			"title": {
+				"en": "Deus Ex: Human Rev. Director's Cut"
+			}
 		},
 		"devils_third": {
-			"en": "Devil's Third"
+			"title": {
+				"en": "Devil's Third"
+			}
 		},
 		"disney_epic_mickey_2_the_power_of_two": {
-			"en": "Disney Epic Mickey 2: The Power of Two",
+			"title": {
+				"en": "Disney Epic Mickey 2: The Power of Two"
+			},
 			"extension": "png"
 		},
 		"disney_infinity": {
-			"en": "Disney INFINITY"
+			"title": {
+				"en": "Disney INFINITY"
+			}
 		},
 		"dont_starve_giant_edition": {
-			"en": "Don't Starve: Giant Edition"
+			"title": {
+				"en": "Don't Starve: Giant Edition"
+			}
 		},
 		"donkey_kong_country_tropical_freeze": {
-			"en": "Donkey Kong Country: Tropical Freeze",
-			"ja": "ドンキーコング トロピカルフリーズ"
+			"title": {
+				"en": "Donkey Kong Country: Tropical Freeze",
+				"ja": "ドンキーコング トロピカルフリーズ"
+			}
 		},
 		"dot_arcade": {
-			"en": "Dot Arcade"
+			"title": {
+				"en": "Dot Arcade"
+			}
 		},
 		"dr_luigi": {
-			"en": "Dr. Luigi",
-			"ja": "Dr.LUIGI & 細菌撲滅"
+			"title": {
+				"en": "Dr. Luigi",
+				"ja": "Dr.LUIGI & 細菌撲滅"
+			}
 		},
 		"dual_core": {
-			"en": "Dual Core"
+			"title": {
+				"en": "Dual Core"
+			}
 		},
 		"duck_tales_remastered": {
-			"en": "DuckTales: Remastered"
+			"title": {
+				"en": "DuckTales: Remastered"
+			}
 		},
 		"dungeons_and_dragons_chronicles_of_mystara": {
-			"en": "Dungeons & Dragons: Chronicles of Mystara"
+			"title": {
+				"en": "Dungeons & Dragons: Chronicles of Mystara"
+			}
 		},
 		"earthlock_festival_of_magic": {
-			"en": "Earthlock: Festival of Magic"
+			"title": {
+				"en": "Earthlock: Festival of Magic"
+			}
 		},
 		"ectoplaza": {
-			"en": "ECTOPLAZA"
+			"title": {
+				"en": "ECTOPLAZA"
+			}
 		},
 		"edge": {
-			"en": "EDGE"
+			"title": {
+				"en": "EDGE"
+			}
 		},
 		"elliot_quest": {
-			"en": "Elliot Quest"
+			"title": {
+				"en": "Elliot Quest"
+			}
 		},
 		"e_shop": {
-			"en": "eShop"
+			"title": {
+				"en": "eShop"
+			}
 		},
 		"f_1_race_stars_powered_up_edition": {
-			"en": "F1 RACE STARS: Powered Up Edition"
+			"title": {
+				"en": "F1 RACE STARS: Powered Up Edition"
+			}
 		},
 		"fast_racing_neo": {
-			"en": "FAST Racing NEO"
+			"title": {
+				"en": "FAST Racing NEO"
+			}
 		},
 		"fatal_frame_maiden_of_black_water": {
-			"en": "Fatal Frame: Maiden of Black Water"
+			"title": {
+				"en": "Fatal Frame: Maiden of Black Water"
+			}
 		},
 		"fifa_soccer_13": {
-			"en": "FIFA Soccer 13",
+			"title": {
+				"en": "FIFA Soccer 13"
+			},
 			"extension": "png"
 		},
 		"frederic_resurrection_of_music": {
-			"en": "Frederic: Resurrection of Music"
+			"title": {
+				"en": "Frederic: Resurrection of Music"
+			}
 		},
 		"freedom_planet": {
-			"en": "Freedom Planet"
+			"title": {
+				"en": "Freedom Planet"
+			}
 		},
 		"freeze_me": {
-			"en": "FreezeME"
+			"title": {
+				"en": "FreezeME"
+			}
 		},
 		"game_and_wario": {
-			"en": "Game & Wario",
-			"ja": "ポケモンスクランブル U"
+			"title": {
+				"en": "Game & Wario",
+				"ja": "ポケモンスクランブル U"
+			}
 		},
 		"get_close": {
-			"en": "GetClose"
+			"title": {
+				"en": "GetClose"
+			}
 		},
 		"giana_sisters_twisted_dreams": {
-			"en": "Giana Sisters: Twisted Dreams"
+			"title": {
+				"en": "Giana Sisters: Twisted Dreams"
+			}
 		},
 		"guacamelee_super_turbo_championship_edition": {
-			"en": "Guacamelee! Super Turbo Championship Edition"
+			"title": {
+				"en": "Guacamelee! Super Turbo Championship Edition"
+			}
 		},
 		"guitar_hero_live": {
-			"en": "Guitar Hero Live"
+			"title": {
+				"en": "Guitar Hero Live"
+			}
 		},
 		"gunman_clive_hd_collection": {
-			"en": "Gunman Clive HD Collection"
+			"title": {
+				"en": "Gunman Clive HD Collection"
+			}
 		},
 		"hello_kitty_kruisers": {
-			"en": "Hello Kitty Kruisers"
+			"title": {
+				"en": "Hello Kitty Kruisers"
+			}
 		},
 		"hive_jump": {
-			"en": "Hive Jump"
+			"title": {
+				"en": "Hive Jump"
+			}
 		},
 		"hyrule_warriors": {
-			"en": "Hyrule Warriors",
-			"ja": "ゼルダ無双"
+			"title": {
+				"en": "Hyrule Warriors",
+				"ja": "ゼルダ無双"
+			}
 		},
 		"injustice_gods_among_us": {
-			"en": "Injustice: Gods Among Us",
-			"ja": "インジャスティス:神々(ヒーロー)の激突"
+			"title": {
+				"en": "Injustice: Gods Among Us",
+				"ja": "インジャスティス:神々(ヒーロー)の激突"
+			}
 		},
 		"internet_browser": {
-			"en": "Internet Browser"
+			"title": {
+				"en": "Internet Browser"
+			}
 		},
 		"ittle_dew": {
-			"en": "Ittle Dew"
+			"title": {
+				"en": "Ittle Dew"
+			}
 		},
 		"kirby_and_the_rainbow_curse": {
-			"en": "Kirby and the Rainbow Curse",
-			"en_GB": "Kirby and the Rainbow Paintbrush",
-			"ja": "タッチ！カービィ スーパーレインボー"
+			"title": {
+				"en": "Kirby and the Rainbow Curse",
+				"en_GB": "Kirby and the Rainbow Paintbrush",
+				"ja": "タッチ！カービィ スーパーレインボー"
+			}
 		},
 		"lego_batman_2": {
-			"en": "LEGO Batman 2"
+			"title": {
+				"en": "LEGO Batman 2"
+			}
 		},
 		"lego_batman_3_beyond_gotham": {
-			"en": "LEGO Batman 3 Beyond Gotham",
-			"ja": "LEGOバットマン3 ザ･ゲーム ゴッサムから宇宙へ"
+			"title": {
+				"en": "LEGO Batman 3 Beyond Gotham",
+				"ja": "LEGOバットマン3 ザ･ゲーム ゴッサムから宇宙へ"
+			}
 		},
 		"lego_city_undercover": {
-			"en": "LEGO City Undercover"
+			"title": {
+				"en": "LEGO City Undercover"
+			}
 		},
 		"lego_dimensions": {
-			"en": "LEGO DIMENSIONS"
+			"title": {
+				"en": "LEGO DIMENSIONS"
+			}
 		},
 		"lego_jurassic_world": {
-			"en": "LEGO Jurassic World"
+			"title": {
+				"en": "LEGO Jurassic World"
+			}
 		},
 		"lego_marvel_super_heroes": {
-			"en": "LEGO MARVEL Super Heroes",
-			"ja": "LEGOマーベル スーパー･ヒーローズ ザ･ゲーム "
+			"title": {
+				"en": "LEGO MARVEL Super Heroes",
+				"ja": "LEGOマーベル スーパー･ヒーローズ ザ･ゲーム "
+			}
 		},
 		"lego_marve_ls_avengers": {
-			"en": "LEGO MARVEL's Avengers",
-			"ja": "LEGOマーベル アベンジャーズ"
+			"title": {
+				"en": "LEGO MARVEL's Avengers",
+				"ja": "LEGOマーベル アベンジャーズ"
+			}
 		},
 		"lego_star_wars": {
-			"en": "LEGO STAR WARS"
+			"title": {
+				"en": "LEGO STAR WARS"
+			}
 		},
 		"lego_the_hobbit": {
-			"en": "LEGO The Hobbit"
+			"title": {
+				"en": "LEGO The Hobbit"
+			}
 		},
 		"little_inferno": {
-			"en": "Little Inferno"
+			"title": {
+				"en": "Little Inferno"
+			}
 		},
 		"mario_and_sonic_at_the_rio_2016_olympic_games": {
-			"en": "Mario & Sonic at the Rio 2016 Olympic Games",
-			"ja": "マリオ&ソニック AT リオオリンピック"
+			"title": {
+				"en": "Mario & Sonic at the Rio 2016 Olympic Games",
+				"ja": "マリオ&ソニック AT リオオリンピック"
+			}
 		},
 		"mario_and_sonic_at_the_sochi_2014_olympic_winter_games": {
-			"en": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
-			"ja": "マリオ＆ソニック AT ソチオリンピック"
+			"title": {
+				"en": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+				"ja": "マリオ＆ソニック AT ソチオリンピック"
+			}
 		},
 		"mario_kart_8": {
-			"en": "Mario Kart 8",
-			"ja": "マリオカート8"
+			"title": {
+				"en": "Mario Kart 8",
+				"ja": "マリオカート8"
+			}
 		},
 		"mario_party_10": {
-			"en": "Mario Party 10",
-			"ja": "マリオパーティ10"
+			"title": {
+				"en": "Mario Party 10",
+				"ja": "マリオパーティ10"
+			}
 		},
 		"mario_tennis_ultra_smash": {
-			"en": "Mario Tennis: Ultra Smash",
-			"ja": "マリオテニス ウルトラスマッシュ"
+			"title": {
+				"en": "Mario Tennis: Ultra Smash",
+				"ja": "マリオテニス ウルトラスマッシュ"
+			}
 		},
 		"mario_vs_donkey_kong_tipping_stars": {
-			"en": "Mario vs. Donkey Kong: Tipping Stars",
-			"ja": "マリオvs.ドンキーコング みんなでミニランド"
+			"title": {
+				"en": "Mario vs. Donkey Kong: Tipping Stars",
+				"ja": "マリオvs.ドンキーコング みんなでミニランド"
+			}
 		},
 		"mass_effect_3_special_edition": {
-			"en": "Mass Effect 3 Special Edition"
+			"title": {
+				"en": "Mass Effect 3 Special Edition"
+			}
 		},
 		"mighty_no_9": {
-			"en": "Mighty No. 9"
+			"title": {
+				"en": "Mighty No. 9"
+			}
 		},
 		"mighty_switch_force_2": {
-			"en": "Mighty Switch Force! 2"
+			"title": {
+				"en": "Mighty Switch Force! 2"
+			}
 		},
 		"mighty_switch_force_hyper_drive_edition": {
-			"en": "Mighty Switch Force! Hyper Drive Edition",
-			"ja": "マイティー スイッチ フォース!  ハイパードライブエディション"
+			"title": {
+				"en": "Mighty Switch Force! Hyper Drive Edition",
+				"ja": "マイティー スイッチ フォース!  ハイパードライブエディション"
+			}
 		},
 		"mii_maker": {
-			"en": "Mii Maker"
+			"title": {
+				"en": "Mii Maker"
+			}
 		},
 		"minecraft_story_mode": {
-			"en": "Minecraft: Story Mode"
+			"title": {
+				"en": "Minecraft: Story Mode"
+			}
 		},
 		"minecraft_wii_u_edition": {
-			"en": "Minecraft: Wii U Edition"
+			"title": {
+				"en": "Minecraft: Wii U Edition"
+			}
 		},
 		"mini_mario_and_friends_amiibo_challenge": {
-			"en": "Mini Mario & Friends: amiibo Challenge",
-			"ja": "ミニマリオ ＆ フレンズ amiiboチャレンジ"
+			"title": {
+				"en": "Mini Mario & Friends: amiibo Challenge",
+				"ja": "ミニマリオ ＆ フレンズ amiiboチャレンジ"
+			}
 		},
 		"monster_hunter_3_ultimate": {
-			"en": "Monster Hunter 3 Ultimate",
-			"ja": "モンスターハンター3(トライ)G HD Ver."
+			"title": {
+				"en": "Monster Hunter 3 Ultimate",
+				"ja": "モンスターハンター3(トライ)G HD Ver."
+			}
 		},
 		"mr_pumpkin_adventure": {
-			"en": "Mr.Pumpkin Adventure"
+			"title": {
+				"en": "Mr.Pumpkin Adventure"
+			}
 		},
 		"mutant_mudds_deluxe": {
-			"en": "Mutant Mudds Deluxe"
+			"title": {
+				"en": "Mutant Mudds Deluxe"
+			}
 		},
 		"mutant_mudds_super_challenge": {
-			"en": "Mutant Mudds Super Challenge"
+			"title": {
+				"en": "Mutant Mudds Super Challenge"
+			}
 		},
 		"nano_assault_neo": {
-			"en": "Nano Assault Neo",
-			"ja": "ナノアサルト ネオ"
+			"title": {
+				"en": "Nano Assault Neo",
+				"ja": "ナノアサルト ネオ"
+			}
 		},
 		"need_for_speed_most_wanted_u": {
-			"en": "Need for Speed: Most Wanted U"
+			"title": {
+				"en": "Need for Speed: Most Wanted U"
+			}
 		},
 		"nes_remix": {
-			"en": "NES Remix",
-			"ja": "ファミコンリミックス"
+			"title": {
+				"en": "NES Remix",
+				"ja": "ファミコンリミックス"
+			}
 		},
 		"nes_remix_2": {
-			"en": "NES Remix 2",
-			"ja": "ファミコンリミックス 2"
+			"title": {
+				"en": "NES Remix 2",
+				"ja": "ファミコンリミックス 2"
+			}
 		},
 		"never_alone_(kisima_ingitchuna)": {
-			"en": "Never Alone (Kisima Ingitchuna)"
+			"title": {
+				"en": "Never Alone (Kisima Ingitchuna)"
+			}
 		},
 		"new_super_luigi_u": {
-			"en": "New Super Luigi U",
-			"ja": "New スーパールイージ U"
+			"title": {
+				"en": "New Super Luigi U",
+				"ja": "New スーパールイージ U"
+			}
 		},
 		"new_super_mario_bros_u": {
-			"en": "New Super Mario Bros. U",
-			"ja": "New スーパーマリオブラザーズ U"
+			"title": {
+				"en": "New Super Mario Bros. U",
+				"ja": "New スーパーマリオブラザーズ U"
+			}
 		},
 		"ninja_gaiden_3_razors_edge": {
-			"en": "Ninja Gaiden 3 Razor's Edge"
+			"title": {
+				"en": "Ninja Gaiden 3 Razor's Edge"
+			}
 		},
 		"nintendo_land": {
-			"en": "Nintendo Land"
+			"title": {
+				"en": "Nintendo Land"
+			}
 		},
 		"noitu_love_devolution": {
-			"en": "Noitu Love: Devolution"
+			"title": {
+				"en": "Noitu Love: Devolution"
+			}
 		},
 		"octodad_dadliest_catch": {
-			"en": "Octodad: Dadliest Catch"
+			"title": {
+				"en": "Octodad: Dadliest Catch"
+			}
 		},
 		"olli_olli": {
-			"en": "OlliOlli"
+			"title": {
+				"en": "OlliOlli"
+			}
 		},
 		"one_piece_unlimited_world_red": {
-			"en": "ONE PIECE: Unlimited World Red",
-			"ja": "ワンピース アンリミテッドワールド R "
+			"title": {
+				"en": "ONE PIECE: Unlimited World Red",
+				"ja": "ワンピース アンリミテッドワールド R "
+			}
 		},
 		"pac_man_and_the_ghostly_adventures": {
-			"en": "Pac-Man and the Ghostly Adventures",
-			"ja": "パックワールド"
+			"title": {
+				"en": "Pac-Man and the Ghostly Adventures",
+				"ja": "パックワールド"
+			}
 		},
 		"pac_man_and_the_ghostly_adventures_2": {
-			"en": "Pac-Man and the Ghostly Adventures 2",
-			"ja": "パックワールド2"
+			"title": {
+				"en": "Pac-Man and the Ghostly Adventures 2",
+				"ja": "パックワールド2"
+			}
 		},
 		"paper_mario_color_splash": {
-			"en": "Paper Mario: Color Splash",
-			"ja": "ペーパーマリオ カラースプラッシュ"
+			"title": {
+				"en": "Paper Mario: Color Splash",
+				"ja": "ペーパーマリオ カラースプラッシュ"
+			}
 		},
 		"phineas_and_ferb_quest_for_cool_stuff": {
-			"en": "Phineas and Ferb: Quest for Cool Stuff"
+			"title": {
+				"en": "Phineas and Ferb: Quest for Cool Stuff"
+			}
 		},
 		"pier_solar_and_the_great_architects": {
-			"en": "Pier Solar and the Great Architects"
+			"title": {
+				"en": "Pier Solar and the Great Architects"
+			}
 		},
 		"pikmin_3": {
-			"en": "Pikmin 3",
-			"ja": "ピクミン3"
+			"title": {
+				"en": "Pikmin 3",
+				"ja": "ピクミン3"
+			}
 		},
 		"pirate_pop_plus": {
-			"en": "Pirate Pop Plus",
-			"ja": "かいぞくポップ"
+			"title": {
+				"en": "Pirate Pop Plus",
+				"ja": "かいぞくポップ"
+			}
 		},
 		"pixel_maker": {
-			"en": "PixelMaker",
-			"ja": "ドットアーティスト"
+			"title": {
+				"en": "PixelMaker",
+				"ja": "ドットアーティスト"
+			}
 		},
 		"pixel_maker_studio": {
-			"en": "PixelMaker Studio"
+			"title": {
+				"en": "PixelMaker Studio"
+			}
 		},
 		"placards": {
-			"en": "Placards"
+			"title": {
+				"en": "Placards"
+			}
 		},
 		"pokemon_rumble_u": {
-			"en": "Pokémon Rumble U",
-			"ja": "ポケモンスクランブル U"
+			"title": {
+				"en": "Pokémon Rumble U",
+				"ja": "ポケモンスクランブル U"
+			}
 		},
 		"pokken_tournament": {
-			"en": "Pokkén Tournament",
-			"ja": "ポッ拳 POKKÉN TOURNAMENT"
+			"title": {
+				"en": "Pokkén Tournament",
+				"ja": "ポッ拳 POKKÉN TOURNAMENT"
+			}
 		},
 		"psibo": {
-			"en": "PSIBO"
+			"title": {
+				"en": "PSIBO"
+			}
 		},
 		"pumped_bmx_plus": {
-			"en": "Pumped BMX +"
+			"title": {
+				"en": "Pumped BMX +"
+			}
 		},
 		"pure_chess": {
-			"en": "Pure Chess"
+			"title": {
+				"en": "Pure Chess"
+			}
 		},
 		"pushmo_world": {
-			"en": "Pushmo World",
-			"ja": "引ク押ス ワールド"
+			"title": {
+				"en": "Pushmo World",
+				"ja": "引ク押ス ワールド"
+			}
 		},
 		"puyo_puyo_tetris": {
-			"en": "Puyo Puyo Tetris",
-			"ja": "ぷよぷよテトリス"
+			"title": {
+				"en": "Puyo Puyo Tetris",
+				"ja": "ぷよぷよテトリス"
+			}
 		},
 		"qube_directors_cut": {
-			"en": "Q.U.B.E: Director's Cut"
+			"title": {
+				"en": "Q.U.B.E: Director's Cut"
+			}
 		},
 		"quest_of_dungeons": {
-			"en": "Quest of Dungeons"
+			"title": {
+				"en": "Quest of Dungeons"
+			}
 		},
 		"rayman_legends": {
-			"en": "Rayman Legends",
-			"ja": "レイマン レジェンド"
+			"title": {
+				"en": "Rayman Legends",
+				"ja": "レイマン レジェンド"
+			}
 		},
 		"replay_vhs_is_not_dead": {
-			"en": "Replay - VHS is not dead"
+			"title": {
+				"en": "Replay - VHS is not dead"
+			}
 		},
 		"resident_evil_revelations": {
-			"en": "Resident Evil Revelations",
-			"ja": "バイオハザード リベレーションズ アンベールド エディション "
+			"title": {
+				"en": "Resident Evil Revelations",
+				"ja": "バイオハザード リベレーションズ アンベールド エディション "
+			}
 		},
 		"retro_arch": {
-			"en": "RetroArch"
+			"title": {
+				"en": "RetroArch"
+			}
 		},
 		"runbow": {
-			"en": "Runbow"
+			"title": {
+				"en": "Runbow"
+			}
 		},
 		"runner_2_future_legend_of_rhythm_alien": {
-			"en": "Runner2: Future Legend of Rhythm Alien"
+			"title": {
+				"en": "Runner2: Future Legend of Rhythm Alien"
+			}
 		},
 		"rush": {
-			"en": "RUSH"
+			"title": {
+				"en": "RUSH"
+			}
 		},
 		"scram_kitty_and_his_buddy_on_rails": {
-			"en": "Scram Kitty and his Buddy on Rails"
+			"title": {
+				"en": "Scram Kitty and his Buddy on Rails"
+			}
 		},
 		"scribblenauts_unlimited": {
-			"en": "Scribblenauts Unlimited"
+			"title": {
+				"en": "Scribblenauts Unlimited"
+			}
 		},
 		"scribblenauts_unmasked_a_dc_comics_adventure": {
-			"en": "Scribblenauts Unmasked: A DC Comics Adventure"
+			"title": {
+				"en": "Scribblenauts Unmasked: A DC Comics Adventure"
+			}
 		},
 		"shakedown_hawaii": {
-			"en": "Shakedown: Hawaii"
+			"title": {
+				"en": "Shakedown: Hawaii"
+			}
 		},
 		"shantae_and_the_pirates_curse": {
-			"en": "Shantae and the Pirate's Curse",
-			"ja": "シャンティ -海賊の呪い-"
+			"title": {
+				"en": "Shantae and the Pirate's Curse",
+				"ja": "シャンティ -海賊の呪い-"
+			}
 		},
 		"shantae_half_genie_hero": {
-			"en": "Shantae: Half-Genie Hero"
+			"title": {
+				"en": "Shantae: Half-Genie Hero"
+			}
 		},
 		"shantae_riskys_revenge_directors_cut": {
-			"en": "Shantae: Risky's Revenge - Director's Cut",
-			"ja": "シャンティ -リスキィ・ブーツの逆襲-"
+			"title": {
+				"en": "Shantae: Risky's Revenge - Director's Cut",
+				"ja": "シャンティ -リスキィ・ブーツの逆襲-"
+			}
 		},
 		"ship_of_harkinian": {
-			"en": "Ship of Harkinian"
+			"title": {
+				"en": "Ship of Harkinian"
+			}
 		},
 		"shovel_knight_treasure_trove": {
-			"en": "Shovel Knight: Treasure Trove",
-			"ja": "ショベルナイト"
+			"title": {
+				"en": "Shovel Knight: Treasure Trove",
+				"ja": "ショベルナイト"
+			}
 		},
 		"sing_party": {
-			"en": "SiNG PARTY",
+			"title": {
+				"en": "SiNG PARTY"
+			},
 			"extension": "png"
 		},
 		"skylanders_imaginators": {
-			"en": "Skylanders Imaginators"
+			"title": {
+				"en": "Skylanders Imaginators"
+			}
 		},
 		"skylanders_super_chargers": {
-			"en": "Skylanders SuperChargers"
+			"title": {
+				"en": "Skylanders SuperChargers"
+			}
 		},
 		"skylanders_swap_force": {
-			"en": "Skylanders SWAP Force"
+			"title": {
+				"en": "Skylanders SWAP Force"
+			}
 		},
 		"skylanders_trap_team": {
-			"en": "Skylanders Trap Team"
+			"title": {
+				"en": "Skylanders Trap Team"
+			}
 		},
 		"smile_basic": {
-			"en": "SmileBASIC",
-			"ja": "プチコンBIG"
+			"title": {
+				"en": "SmileBASIC",
+				"ja": "プチコンBIG"
+			}
 		},
 		"sonic_and_all_stars_racing_transformed": {
-			"en": "Sonic & All-Stars Racing Transformed",
-			"ja": "ソニック&オールスターレーシング TRANSFORMED"
+			"title": {
+				"en": "Sonic & All-Stars Racing Transformed",
+				"ja": "ソニック&オールスターレーシング TRANSFORMED"
+			}
 		},
 		"sonic_boom_rise_of_lyric": {
-			"en": "Sonic Boom: Rise of Lyric",
-			"ja": "ソニックトゥーン 太古の秘宝"
+			"title": {
+				"en": "Sonic Boom: Rise of Lyric",
+				"ja": "ソニックトゥーン 太古の秘宝"
+			}
 		},
 		"sonic_lost_world": {
-			"en": "Sonic Lost World",
-			"ja": "ソニック ロストワールド"
+			"title": {
+				"en": "Sonic Lost World",
+				"ja": "ソニック ロストワールド"
+			}
 		},
 		"sonic_mania": {
-			"en": "Sonic Mania"
+			"title": {
+				"en": "Sonic Mania"
+			}
 		},
 		"spin_the_bottle_bumpies_party": {
-			"en": "Spin the Bottle: Bumpie's Party",
-			"ja": "わいわい!みんなでチャレンジ"
+			"title": {
+				"en": "Spin the Bottle: Bumpie's Party",
+				"ja": "わいわい!みんなでチャレンジ"
+			}
 		},
 		"splatoon": {
-			"en": "Splatoon",
-			"ja": "スプラトゥーン"
+			"title": {
+				"en": "Splatoon",
+				"ja": "スプラトゥーン"
+			}
 		},
 		"star_fox_guard": {
-			"en": "Star Fox Guard",
-			"ja": "スターフォックス ガード"
+			"title": {
+				"en": "Star Fox Guard",
+				"ja": "スターフォックス ガード"
+			}
 		},
 		"star_fox_zero": {
-			"en": "Star Fox Zero",
-			"ja": "スターフォックス ゼロ"
+			"title": {
+				"en": "Star Fox Zero",
+				"ja": "スターフォックス ゼロ"
+			}
 		},
 		"steam_world_dig": {
-			"en": "SteamWorld Dig",
-			"ja": "スチームワールド ディグ HD"
+			"title": {
+				"en": "SteamWorld Dig",
+				"ja": "スチームワールド ディグ HD"
+			}
 		},
 		"steam_world_heist": {
-			"en": "SteamWorld Heist"
+			"title": {
+				"en": "SteamWorld Heist"
+			}
 		},
 		"super_mario_3d_world": {
-			"en": "Super Mario 3D World",
-			"ja": "スーパーマリオ 3Dワールド"
+			"title": {
+				"en": "Super Mario 3D World",
+				"ja": "スーパーマリオ 3Dワールド"
+			}
 		},
 		"super_mario_64": {
-			"en": "Super Mario 64"
+			"title": {
+				"en": "Super Mario 64"
+			}
 		},
 		"super_mario_maker": {
-			"en": "Super Mario Maker",
-			"ja": "スーパーマリオメーカー"
+			"title": {
+				"en": "Super Mario Maker",
+				"ja": "スーパーマリオメーカー"
+			}
 		},
 		"super_meat_boy": {
-			"en": "Super Meat Boy"
+			"title": {
+				"en": "Super Meat Boy"
+			}
 		},
 		"super_smash_bros_for_wii_u": {
-			"en": "Super Smash Bros. for Wii U",
-			"ja": "大乱闘スマッシュブラザーズ for Wii U"
+			"title": {
+				"en": "Super Smash Bros. for Wii U",
+				"ja": "大乱闘スマッシュブラザーズ for Wii U"
+			}
 		},
 		"swords_and_soldiers_ii": {
-			"en": "Swords & Soldiers II"
+			"title": {
+				"en": "Swords & Soldiers II"
+			}
 		},
 		"tank_tank_tank": {
-			"en": "TANK! TANK! TANK!",
-			"ja": "タンク!タンク!タンク!"
+			"title": {
+				"en": "TANK! TANK! TANK!",
+				"ja": "タンク!タンク!タンク!"
+			}
 		},
 		"tekken_tag_tournament_2": {
-			"en": "Tekken Tag Tournament 2",
-			"ja": "鉄拳タッグトーナメント2 Wii U EDITION"
+			"title": {
+				"en": "Tekken Tag Tournament 2",
+				"ja": "鉄拳タッグトーナメント2 Wii U EDITION"
+			}
 		},
 		"terraria": {
-			"en": "Terraria",
-			"ja": "テラリア"
+			"title": {
+				"en": "Terraria",
+				"ja": "テラリア"
+			}
 		},
 		"teslagrad": {
-			"en": "Teslagrad"
+			"title": {
+				"en": "Teslagrad"
+			}
 		},
 		"tetraminos": {
-			"en": "Tetraminos"
+			"title": {
+				"en": "Tetraminos"
+			}
 		},
 		"the_amazing_spider_man": {
-			"en": "The Amazing Spider-Man"
+			"title": {
+				"en": "The Amazing Spider-Man"
+			}
 		},
 		"the_amazing_spider_man_2": {
-			"en": "The Amazing Spider-Man 2"
+			"title": {
+				"en": "The Amazing Spider-Man 2"
+			}
 		},
 		"the_beggars_ride": {
-			"en": "The Beggar's Ride"
+			"title": {
+				"en": "The Beggar's Ride"
+			}
 		},
 		"the_binding_of_isaac_rebirth": {
-			"en": "The Binding of Isaac Rebirth"
+			"title": {
+				"en": "The Binding of Isaac Rebirth"
+			}
 		},
 		"the_cave": {
-			"en": "The Cave"
+			"title": {
+				"en": "The Cave"
+			}
 		},
 		"the_girl_and_the_robot": {
-			"en": "The Girl and the Robot",
-			"ja": "少女とロボット"
+			"title": {
+				"en": "The Girl and the Robot",
+				"ja": "少女とロボット"
+			}
 		},
 		"the_legend_of_zelda_breath_of_the_wild": {
-			"en": "The Legend of Zelda: Breath of the Wild",
-			"ja": "ゼルダの伝説　ブレス オブ ザ ワイルド"
+			"title": {
+				"en": "The Legend of Zelda: Breath of the Wild",
+				"ja": "ゼルダの伝説　ブレス オブ ザ ワイルド"
+			}
 		},
 		"the_legend_of_zelda_hyrule_historia": {
-			"en": "The Legend of Zelda: Hyrule Historia"
+			"title": {
+				"en": "The Legend of Zelda: Hyrule Historia"
+			}
 		},
 		"the_legend_of_zelda_the_wind_waker_hd": {
-			"en": "The Legend of Zelda: The Wind Waker HD",
-			"ja": "ゼルダの伝説 風のタクト HD"
+			"title": {
+				"en": "The Legend of Zelda: The Wind Waker HD",
+				"ja": "ゼルダの伝説 風のタクト HD"
+			}
 		},
 		"the_legend_of_zelda_twilight_princess_hd": {
-			"en": "The Legend of Zelda: Twilight Princess HD",
-			"ja": "ゼルダの伝説 トワイライトプリンセス HD"
+			"title": {
+				"en": "The Legend of Zelda: Twilight Princess HD",
+				"ja": "ゼルダの伝説 トワイライトプリンセス HD"
+			}
 		},
 		"the_lego_movie_videogame": {
-			"en": "The LEGO Movie Videogame",
-			"ja": "LEGOムービー ザ･ゲーム "
+			"title": {
+				"en": "The LEGO Movie Videogame",
+				"ja": "LEGOムービー ザ･ゲーム "
+			}
 		},
 		"the_mysterious_cities_of_gold_secret_paths": {
-			"en": "The Mysterious Cities of Gold: Secret Paths"
+			"title": {
+				"en": "The Mysterious Cities of Gold: Secret Paths"
+			}
 		},
 		"the_peanuts_movie_snoopys_grand_adventure": {
-			"en": "The Peanuts Movie: Snoopy's Grand Adventure"
+			"title": {
+				"en": "The Peanuts Movie: Snoopy's Grand Adventure"
+			}
 		},
 		"the_wonderful_101": {
-			"en": "The Wonderful 101"
+			"title": {
+				"en": "The Wonderful 101"
+			}
 		},
 		"tnt_racers": {
-			"en": "TNT Racers"
+			"title": {
+				"en": "TNT Racers"
+			}
 		},
 		"toki_tori": {
-			"en": "Toki Tori"
+			"title": {
+				"en": "Toki Tori"
+			}
 		},
 		"toki_tori_2_plus": {
-			"en": "Toki Tori 2+"
+			"title": {
+				"en": "Toki Tori 2+"
+			}
 		},
 		"tokyo_mirage_sessions_fe": {
-			"en": "Tokyo Mirage Sessions #FE",
-			"ja": "幻影異聞録♯FE"
+			"title": {
+				"en": "Tokyo Mirage Sessions #FE",
+				"ja": "幻影異聞録♯FE"
+			}
 		},
 		"tom_clancys_splinter_cell_blacklist": {
-			"en": "Tom Clancy's Splinter Cell Blacklist"
+			"title": {
+				"en": "Tom Clancy's Splinter Cell Blacklist"
+			}
 		},
 		"trine_2_directors_cut": {
-			"en": "Trine 2: Director's Cut"
+			"title": {
+				"en": "Trine 2: Director's Cut"
+			}
 		},
 		"trine_enchanted_edition": {
-			"en": "Trine Enchanted Edition"
+			"title": {
+				"en": "Trine Enchanted Edition"
+			}
 		},
 		"virtual_console": {
-			"en": "Virtual Console"
+			"title": {
+				"en": "Virtual Console"
+			}
 		},
 		"voxel_maker": {
-			"en": "VoxelMaker"
+			"title": {
+				"en": "VoxelMaker"
+			}
 		},
 		"warriors_orochi_3": {
-			"en": "Warriors Orochi 3"
+			"title": {
+				"en": "Warriors Orochi 3"
+			}
 		},
 		"watch_dogs": {
-			"en": "Watch_Dogs"
+			"title": {
+				"en": "Watch_Dogs"
+			}
 		},
 		"wii": {
-			"en": "Wii"
+			"title": {
+				"en": "Wii"
+			}
 		},
 		"wii_fit_u": {
-			"en": "Wii Fit U"
+			"title": {
+				"en": "Wii Fit U"
+			}
 		},
 		"wii_party_u": {
-			"en": "Wii Party U"
+			"title": {
+				"en": "Wii Party U"
+			}
 		},
 		"wii_sports_club": {
-			"en": "Wii Sports Club"
+			"title": {
+				"en": "Wii Sports Club"
+			}
 		},
 		"xenoblade_chronicles_x": {
-			"en": "Xenoblade Chronicles X",
-			"ja": "XenobladeX ゼノブレイドクロス"
+			"title": {
+				"en": "Xenoblade Chronicles X",
+				"ja": "XenobladeX ゼノブレイドクロス"
+			}
 		},
 		"x_type_plus": {
-			"en": "XType Plus"
+			"title": {
+				"en": "XType Plus"
+			}
 		},
 		"yoshis_woolly_world": {
-			"en": "Yoshi's Woolly World",
-			"ja": "ヨッシー ウールワールド"
+			"title": {
+				"en": "Yoshi's Woolly World",
+				"ja": "ヨッシー ウールワールド"
+			}
 		},
 		"youtube": {
-			"en": "YouTube"
+			"title": {
+				"en": "YouTube"
+			}
 		},
 		"zen_pinball_2": {
-			"en": "Zen Pinball 2",
+			"title": {
+				"en": "Zen Pinball 2"
+			},
 			"extension": "png"
 		},
 		"zombi_u": {
-			"en": "ZombiU",
-			"ja": "ゾンビU"
-		},
+			"title": {
+				"en": "ZombiU",
+				"ja": "ゾンビU"
+			}
+		}
 	}
 }
