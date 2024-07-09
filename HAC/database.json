@@ -8,6 +8,8 @@
 		"prefix": "SW-",
 		"length": 12
 	},
+	"url": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/assets/",
+	"image": "jpg",
 	"softwares": {
 		"1_2_switch": {
 			"title": "1-2-Switch"
