@@ -2551,7 +2551,7 @@
 				"en_GB": "SEGA Mega Drive - Nintendo Switch Online",
 				"ja": "セガ メガドライブ for Nintendo Switch Online"
 			},
-			"asset": "en_GB, ja_JP"
+			"asset": "en_GB,ja"
 		},
 		"shakedown_hawaii": {
 			"title": {
@@ -2971,7 +2971,7 @@
 				"en_GB": "Super Nintendo Entertainment System - Nintendo Switch Online",
 				"ja": "スーパーファミコン Nintendo Switch Online"
 			},
-			"asset": "en_GB, ja_JP"
+			"asset": "en_GB,ja"
 		},
 		"super_punch_patrol": {
 			"title": {
