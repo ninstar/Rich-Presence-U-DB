@@ -2032,7 +2032,7 @@
 				"en": "Nintendo Entertainment System - Nintendo Switch Online",
 				"ja": "ファミリーコンピュータ Nintendo Switch Online"
 			},
-			"img": "ja"
+			"img": ["ja"]
 		},
 		"nintendo_switch_sports": {
 			"txt": {
