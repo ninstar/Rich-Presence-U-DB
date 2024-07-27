@@ -1,26 +1,25 @@
 {
 	"client_id": 1259967368000569394,
-	"platform_name": "Nintendo 3DS",
 	"platform_id": "CTR",
+	"platform_name": "Nintendo 3DS",
 	"friend_code_format": "****-****-****",
-	"friend_code_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/",
-	"friend_code_assets_files": [
-		"regular.png",
-		"regular_blurple.png",
-		"regular_dark.png",
-		"regular_light.png"
-		"fc.png",
-		"fc_blurple.png",
-		"fc_dark.png",
-		"fc_light.png",
-		"console.png",
-		"console_blurple.png",
-		"console_dark.png",
-		"console_light.png"
+	"friend_code_icons": [
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/regular.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/regular_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/regular_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/regular_light.png"
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/fc.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/fc_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/fc_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/fc_light.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/console.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/console_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/console_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/icons/console_light.png"
 	],
-	"software_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/assets/",
-	"software_assets_ext": "jpg",
-	"software_ids": {
+	"assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/CTR/assets/",
+	"assets_ext": "jpg",
+	"assets": {
 		"2048": {
 			"txt": {
 				"en": "2048"

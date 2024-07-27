@@ -1,26 +1,25 @@
 {
 	"client_id": 1259967215323840564,
-	"platform_name": "Nintendo Switch",
 	"platform_id": "HAC",
+	"platform_name": "Nintendo Switch",
 	"friend_code_format": "SW-****-****-****",
-	"friend_code_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/",
-	"friend_code_assets_files": [
-		"regular.png",
-		"regular_blurple.png",
-		"regular_dark.png",
-		"regular_light.png"
-		"fc.png",
-		"fc_blurple.png",
-		"fc_dark.png",
-		"fc_light.png",
-		"nso.png",
-		"nso_blurple.png",
-		"nso_dark.png",
-		"nso_light.png"
+	"friend_code_icons": [
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/regular.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/regular_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/regular_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/regular_light.png"
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/fc.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/fc_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/fc_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/fc_light.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/nso.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/nso_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/nso_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/icons/nso_light.png"
 	],
-	"software_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/assets/",
-	"software_assets_ext": "jpg",
-	"software_ids": {
+	"assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/HAC/assets/",
+	"assets_ext": "jpg",
+	"assets": {
 		"1_2_switch": {
 			"txt": {
 				"en": "1-2-Switch"

@@ -1,26 +1,25 @@
 {
 	"client_id": 1259966953573847130,
-	"platform_name": "Wii U",
 	"platform_id": "WUP",
+	"platform_name": "Wii U",
 	"friend_code_format": "",
-	"friend_code_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/",
-	"friend_code_assets_files": [
-		"regular.png",
-		"regular_blurple.png",
-		"regular_dark.png",
-		"regular_light.png"
-		"nnid.png",
-		"nnid_blurple.png",
-		"nnid_dark.png",
-		"nnid_light.png",
-		"pnid.png",
-		"pnid_blurple.png",
-		"pnid_dark.png",
-		"pnid_light.png"
+	"friend_code_icons": [
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/regular.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/regular_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/regular_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/regular_light.png"
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/nnid.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/nnid_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/nnid_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/nnid_light.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/pnid.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/pnid_blurple.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/pnid_dark.png",
+		"https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/icons/pnid_light.png"
 	],
-	"software_assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/assets/",
-	"software_assets_ext": "jpg",
-	"software_ids": {
+	"assets_uri": "https://github.com/ninstar/Rich-Presence-U-DB/raw/json/WUP/assets/",
+	"assets_ext": "jpg",
+	"assets": {
 		"adventure_time_finn_and_jake_investigations": {
 			"txt": {
 				"en": "Adventure Time: Finn & Jake Investigations"
