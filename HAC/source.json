@@ -306,6 +306,12 @@
 				"en": "Behind the Frame: The Finest Scenery"
 			}
 		},
+		"beyond_good_and_evil_20th_anniversary_edition": {
+			"img": "en",
+			"txt": {
+				"en": "Beyond Good & Evil 20th Anniversary Edition"
+			}
+		},
 		"bio_shock_infinite_the_complete_edition": {
 			"img": "en",
 			"txt": {
@@ -2424,6 +2430,13 @@
 			"img": "en",
 			"txt": {
 				"en": "Nintendo Switch Sports"
+			}
+		},
+		"nintendo_world_championships_nes_edition": {
+			"img": "en, ja",
+			"txt": {
+				"en": "Nintendo World Championships: NES Edition",
+				"ja": "Nintendo World Championships ファミコン世界大会 Special Edition"
 			}
 		},
 		"no_more_heroes": {
