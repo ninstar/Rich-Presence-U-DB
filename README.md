@@ -71,7 +71,7 @@ After making the changes and submitting your pull request you will just have to 
 
 The reason why this is done is because each application client has a limit of 300 icons (minus two considering the tooltip image for friend codes and the default platform logo for in-app custom entries), icons are distributed to the clients with available slots and these numbered cells represent the index of the Discord application client the icon is hosted, the list of client IDs for each platform and their respective indexes can be found in the [clients.cfg](clients.cfg)
 
-> Approved icons are also added to this [folder](https://www.dropbox.com/scl/fo/3ydzm0p9wr2ciw3gtwrlm/h?rlkey=a00uzk0a62jn2xtws382gxlqa&dl=0) for easy public access, they are separated by their assigned clients.
+> Approved icons are also added to this [archive](https://drive.google.com/file/d/1xZd9W63jLR-vvI73lcIWh4S-aj06DFXP/view?usp=sharing) for easy public access, they are separated by their assigned clients.
 
 ## Credits
 
