@@ -56,7 +56,7 @@ Applying this to the example above, only ``smario.us.png`` would be required.
 **Icon requirements**
 
 - You need an icon for at least one region.
-- The filename of the icon should be the same as the `ID` with a region suffix appended at to the left of the file extension.
+- The filename of the icon should be the same as the `ID` with a region suffix added to the left of the file extension.
 - The minimum accepted size is **512x512** pixels.
 - The aspect ratio must be **1:1** (Square).
 - If the source image is low-res, the use of super-resolution for upscaling is preferable.
