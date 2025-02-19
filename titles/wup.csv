@@ -38,6 +38,7 @@ cbk,✓,,,Cloudberry Kingdom,,
 ccd,✓,,,Coaster Crazy Deluxe,,
 cq2,✓,,,Costume Quest 2,,
 croll,✓,,,Crunchyroll,,
+wdlog,✓,,,Daily Log,,
 dswe,✓,,,Darksiders Warmastered Edition,,
 dehrdc,✓,,,Deus Ex: Human Rev. Director's Cut,,
 dthd,✓,,,Devil's Third,,
@@ -46,6 +47,7 @@ dinft,✓,,,Disney INFINITY,,
 dsge,✓,,,Don't Starve: Giant Edition,,
 dkctf,✓,,,Donkey Kong Country: Tropical Freeze,,ドンキーコング トロピカルフリーズ
 dta,✓,,,Dot Arcade,,
+wdmn,✓,,,Download Management,,
 drl,✓,,,Dr. Luigi,,Dr.LUIGI & 細菌撲滅
 dualc,✓,,,Dual Core,,
 dtrm,✓,,,DuckTales: Remastered,,
@@ -64,14 +66,17 @@ fs13,✓,,,FIFA Soccer 13,,
 from,✓,,,Frederic: Resurrection of Music,,
 freep,✓,,,Freedom Planet,,
 fme,✓,,,FreezeME,,
+wflst,✓,,,Friend List,,
 gaw,✓,,,Game & Wario,,ポケモンスクランブル U
 getc,✓,,,GetClose,,
 gstd,✓,,,Giana Sisters: Twisted Dreams,,
 gmstce,✓,,,Guacamelee! Super Turbo Championship Edition,,
 ghl,✓,,,Guitar Hero Live,,
 gchdc,✓,,,Gunman Clive HD Collection,,
+whsinfo,✓,,,Health & Safety Information,,
 hkk,✓,,,Hello Kitty Kruisers,,
 hivej,✓,,,Hive Jump,,
+hbl,✓,,,Homebrew Launcher,,
 zhw,✓,,,Hyrule Warriors,,ゼルダ無双
 igau,✓,,,Injustice: Gods Among Us,,インジャスティス:神々(ヒーロー)の激突
 wib,✓,,,Internet Browser,,
@@ -87,6 +92,7 @@ lma,✓,,,LEGO MARVEL's Avengers,,LEGOマーベル アベンジャーズ
 lsw,✓,,,LEGO STAR WARS,,
 lth,✓,,,LEGO The Hobbit,,
 linf,✓,,,Little Inferno,,
+wmnl,✓,,,Manual,,
 maso16,✓,,,Mario & Sonic at the Rio 2016 Olympic Games,,マリオ&ソニック AT リオオリンピック
 maso14,✓,,,Mario & Sonic at the Sochi 2014 Olympic Winter Games,,マリオ＆ソニック AT ソチオリンピック
 mk8,✓,,,Mario Kart 8,,マリオカート8
@@ -98,6 +104,7 @@ mn9,✓,,,Mighty No. 9,,
 msf2,✓,,,Mighty Switch Force! 2,,
 msfhde,✓,,,Mighty Switch Force! Hyper Drive Edition,,マイティー スイッチ フォース!  ハイパードライブエディション
 wmm,✓,,,Mii Maker,,
+wmvrs,✓,,,Miiverse,,
 msm,✓,,,Minecraft: Story Mode,,
 mwe,✓,,,Minecraft: Wii U Edition,,
 mmafac,✓,,,Mini Mario & Friends: amiibo Challenge,,ミニマリオ ＆ フレンズ amiiboチャレンジ
@@ -114,13 +121,16 @@ nslu,✓,,,New Super Luigi U,,New スーパールイージ U
 nsmbu,✓,,,New Super Mario Bros. U,,New スーパーマリオブラザーズ U
 ng3re,✓,,,Ninja Gaiden 3 Razor's Edge,,
 ninl,✓,,,Nintendo Land,,
+wtvii,✓,,,Nintendo Tvii,,
 nld,✓,,,Noitu Love: Devolution,,
+wntfs,✓,,,Notifications,,
 oddc,✓,,,Octodad: Dadliest Catch,,
 oolli,✓,,,OlliOlli,,
 opuwr,✓,,,ONE PIECE: Unlimited World Red,,ワンピース アンリミテッドワールド R 
 pmatga,✓,,,Pac-Man and the Ghostly Adventures,,パックワールド
 pmatga2,✓,,,Pac-Man and the Ghostly Adventures 2,,パックワールド2
 pmcs,✓,,,Paper Mario: Color Splash,,ペーパーマリオ カラースプラッシュ
+wpc,✓,,,Parental Controls,,
 pafqfcs,✓,,,Phineas and Ferb: Quest for Cool Stuff,,
 psatga,✓,,,Pier Solar and the Great Architects,,
 pik3,✓,,,Pikmin 3,,ピクミン3
@@ -175,6 +185,7 @@ smm,✓,,,Super Mario Maker,,スーパーマリオメーカー
 smb,✓,,,Super Meat Boy,,
 ssb4,✓,,,Super Smash Bros. for Wii U,,大乱闘スマッシュブラザーズ for Wii U
 ssii,✓,,,Swords & Soldiers II,,
+wsstgs,✓,,,System Settings,,
 ttt,✓,,,TANK! TANK! TANK!,,タンク!タンク!タンク!
 ttt2,✓,,,Tekken Tag Tournament 2,,鉄拳タッグトーナメント2 Wii U EDITION
 tra,✓,,,Terraria,,テラリア
@@ -209,6 +220,8 @@ wwm,✓,,,Wii,,
 wfu,✓,,,Wii Fit U,,
 wpu,✓,,,Wii Party U,,
 wsc,✓,,,Wii Sports Club,,
+wchat,✓,,,Wii U Chat,,
+wum,✓,,,Wii U Menu,,
 xcx,✓,,,Xenoblade Chronicles X,,XenobladeX ゼノブレイドクロス
 xtp,✓,,,XType Plus,,
 yww,✓,,,Yoshi's Woolly World,,ヨッシー ウールワールド
