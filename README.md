@@ -60,7 +60,7 @@ Applying this to the example above, only ``smario.us.png`` would be required.
 - You need an icon for at least one region.
 - The filename of the icon should be the same as the `ID` with a region suffix added to the left of the file extension.
 - The minimum accepted size is **512x512** pixels.
-- If the icon is smaller than the minimum accepted size but evenly divisible by it, you should always enlarge it using the nearest neighbor, otherwise it is preferable to upscale it using bilinear or lanczos interpolation or other super-resolution methods.
+- If an icon is smaller than the minimum accepted size but evenly divisible by it, you should always enlarge it using nearest neighbor scaling, otherwise it is preferable to upscale it using bilinear or lanczos interpolation or other super-resolution methods.
 
 ## Credits
 
