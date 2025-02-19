@@ -12,7 +12,7 @@ Here is the list of games for each platform:
 
 > Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
 
-### Localizations
+### Titles
 
 Each line is for a different game, regions are separated by columns with the following prefixes:
 
@@ -45,6 +45,8 @@ The filename of the icons should be like this:
 - ``smario.us.png``
 - ``smario.jp.png``
 
+> **Note** ``default`` and ``id`` are reserved internally, therefore you should not use them as the filename of an icon or IDs.
+
 The cells in columns 2, 3, and 4 (from left to right) are used to indicate whether a corresponding icon file is present when they are populated with a character. It can be any character, but I recommend using a check mark (``✓``).
 
 To avoid duplicates, when a game has a different title in one region but has exactly the same icon in all of them, it is necessary to provide the icon for only one region, that being the region with the highest priority. The order of priority is as follows:
@@ -58,8 +60,7 @@ Applying this to the example above, only ``smario.us.png`` would be required.
 - You need an icon for at least one region.
 - The filename of the icon should be the same as the `ID` with a region suffix added to the left of the file extension.
 - The minimum accepted size is **512x512** pixels.
-- The aspect ratio must be **1:1** (Square).
-- If the source image is low-res, the use of super-resolution for upscaling is preferable.
+- If the icon is smaller than the minimum accepted size but evenly divisible by it, you should always enlarge it using the nearest neighbor, otherwise it is preferable to upscale it using bilinear or lanczos interpolation or other super-resolution methods.
 
 ## Credits
 
