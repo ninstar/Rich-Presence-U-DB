@@ -43,8 +43,8 @@ For a software entry like this:
 
 The filename of the icons should be like this:
 
-- ``smario.us.png``
-- ``smario.jp.png``
+- ``smario.us.jpg``
+- ``smario.jp.jpg``
 
 > [!Warning]
 > ``default`` and ``id`` are reserved internally, therefore you should not use them as the filename of an icon or IDs.
@@ -61,6 +61,7 @@ Applying this to the example above, only ``smario.us.png`` would be required.
 
 - You need an icon for at least one region.
 - The filename of the icon should be the same as the `ID` with a region suffix added to the left of the file extension.
+- The file extensions needs to be **.jpg**.
 - The minimum accepted size is **512x512** pixels.
 - If an icon is smaller than the minimum accepted size but evenly divisible by it, you should always enlarge it using nearest neighbor scaling, otherwise it is preferable to upscale it using bilinear or lanczos interpolation or other super-resolution methods.
 
