@@ -9,6 +9,7 @@ Here is the list of currently supported platforms:
 - Wii U - [wup.csv](titles/wup.csv)
 - Nintendo Switch - [hac.csv](titles/hac.csv)
 - Nintendo 3DS - [ctr.csv](titles/ctr.csv)
+- Nintendo Switch 2 - [bee.csv](titles/bee.csv)
 
 > [!Important]
 >  Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
@@ -89,3 +90,4 @@ All resources provided here were made possible thanks to the contribution of the
 - yurisasc
 - Zushi11
 - Zyliqx
+- catfxngs
