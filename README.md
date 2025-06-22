@@ -4,7 +4,7 @@ Title database for https://github.com/ninstar/Rich-Presence-U.
 
 ## How to contribute
 
-Here is the list of currently supported platforms:
+This is a list of the currently supported platforms:
 
 - Wii U - [wup.csv](titles/wup.csv)
 - Nintendo Switch - [hac.csv](titles/hac.csv)
@@ -16,13 +16,13 @@ Here is the list of currently supported platforms:
 
 ### Titles
 
-Each line is for a different software, regions are separated by columns with the following prefixes:
+Each line is used for a different software, regions are separated by columns with the following prefixes:
 
 - **US** for America
 - **EU** for Europe
 - **JP** for Japan
 
-You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions (unless that region has an [unique icon](#icons)).
+You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions (unless that region has an [unique icon](#icons) for the title being added).
 
 **Example**
 
@@ -32,7 +32,7 @@ You must fill out at least one of the cells in one of the `TITLE` columns. You d
 
 ### Icons
 
-The first column is used to define a unique ID to the icon associated with the software. The icon filename should be the same, but with a region suffix appended.
+The first column is used to define a unique ID for the icon associated with the software. The icon filename should be the same, but with a region suffix appended.
 
 **Example**
 
@@ -48,11 +48,11 @@ The filename of the icons should be like this:
 - ``smario.jp.jpg``
 
 > [!Warning]
-> ``default`` and ``id`` are reserved internally, therefore you should not use them as the filename of an icon or IDs.
+> ``default`` and ``id`` are reserved internally, therefore you should not use them as the ID or filename of an icon.
 
-The cells in columns 2, 3, and 4 (from left to right) are used to indicate whether a corresponding icon file is present when they are populated with a character. It can be any character, but I recommend using a check mark (``✓``).
+The cells in columns 2, 3, and 4 (from left to right) should be populated with a character to indicate when when a corresponding icon is available. It can be any character, but I recommend using a check mark (``✓``).
 
-To avoid duplicates, when a software has a different title in one region but has exactly the same icon in all of them, it is necessary to provide the icon for only one region, that being the region with the highest priority. The order of priority is as follows:
+To avoid duplicates, when a software has different titles in different regions but shares the same icon in two or more of them, it is only necessary to provide an icon for only one region, this being the region with the highest priority. The order of priority is as follows:
 
 - **US ➜ EU ➜ JP**
 
@@ -60,11 +60,13 @@ Applying this to the example above, only ``smario.us.png`` would be required.
 
 **Icon requirements**
 
-- You need an icon for at least one region.
-- The filename of the icon should be the same as the `ID` with a region suffix added to the left of the file extension.
-- The file extensions needs to be **.jpg**.
-- The minimum accepted size is **512x512** pixels.
-- If an icon is smaller than the minimum accepted size but evenly divisible by it, you should always enlarge it using nearest neighbor scaling, otherwise it is preferable to upscale it using bilinear or lanczos interpolation or other super-resolution methods.
+The guidelines for submitting icons are:
+
+- An icon for at least one region.
+- The file extension of the icon must be **.jpg**.
+- The filename of the icon must be the same as the unique ID, with a region suffix added to the left of the file extension. (``*ID*.*REGION*.jpg``)
+- The icon size must be **512x512** pixels (1:1) or larger.
+  - Icons smaller than that should be enlarged using nearest neighbor scaling if they are evenly divisible by the 512x512, otherwise it is preferable to upscale them using bilinear or lanczos interpolation or other super-resolution methods.
 
 ## Credits
 
