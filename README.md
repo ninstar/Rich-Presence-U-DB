@@ -6,10 +6,10 @@ Title database for https://github.com/ninstar/Rich-Presence-U.
 
 This is a list of the currently supported platforms:
 
-- Wii U - [wup.csv](titles/wup.csv)
-- Nintendo Switch - [hac.csv](titles/hac.csv)
 - Nintendo 3DS - [ctr.csv](titles/ctr.csv)
+- Nintendo Switch - [hac.csv](titles/hac.csv)
 - Nintendo Switch 2 - [bee.csv](titles/bee.csv)
+- Wii U - [wup.csv](titles/wup.csv)
 
 > [!Important]
 >  Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
@@ -22,7 +22,7 @@ Each line is used for a different software, regions are separated by columns wit
 - **EU** for Europe
 - **JP** for Japan
 
-You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions (unless that region has an [unique icon](#icons) for the title being added).
+You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions (unless the region has a [unique icon](#icons) for the title being added).
 
 **Example**
 
