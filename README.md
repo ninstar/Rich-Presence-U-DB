@@ -50,7 +50,7 @@ The filename of the icons should be like this:
 > [!Warning]
 > ``default`` and ``id`` are reserved internally, therefore you should not use them as the ID or filename of an icon.
 
-The cells in columns 2, 3, and 4 (from left to right) should be populated with a character to indicate when when a corresponding icon is available. It can be any character, but I recommend using a check mark (``✓``).
+The cells in columns 2, 3, and 4 (from left to right) should be populated with a character to indicate when a corresponding icon is available. It can be any character, but I recommend using a check mark (``✓``).
 
 To avoid duplicates, when a software has different titles in different regions but shares the same icon in two or more of them, it is only necessary to provide an icon for only one region, this being the region with the highest priority. The order of priority is as follows:
 
