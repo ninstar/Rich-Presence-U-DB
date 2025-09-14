@@ -1,0 +1,4 @@
+# Ignore lock files
+*.~lock.*\#
+# Ignore macOS metadata
+.DS_Store

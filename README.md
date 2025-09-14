@@ -2,64 +2,94 @@
 
 Title database for https://github.com/ninstar/Rich-Presence-U.
 
-**Pull requests** are welcome, but before doing so, read the section below.
+## How to contribute
 
-## How to
+This is a list of the currently supported platforms:
 
-Below are links to the table of titles for each platform:
+- Nintendo 3DS - [ctr.csv](titles/ctr.csv)
+- Nintendo Switch - [hac.csv](titles/hac.csv)
+- Nintendo Switch 2 - [bee.csv](titles/bee.csv)
+- Wii U - [wup.csv](titles/wup.csv)
 
-- Wii U - [titles_wiiu.csv](/titles_wiiu.csv)
-- Nintendo Switch - [titles_nswitch.csv](//titles_nswitch.csv)
-- Nintendo 3DS - [titles_n3ds.csv](/titles_n3ds.csv)
+> [!Important]
+>  Cells are separated by commas ``,`` and delimited by double quotation marks ``"``.
 
-Each line is for a different title, regions are separated by columns:
+### Titles
 
-- US - *Americas*
-- EU - *Europe*
-- JP - *Japan*
+Each line is used for a different software, regions are separated by columns with the following prefixes:
 
-You must fill out at least one cell in one of the columns that end with sufix ``TITLE``. You can leave them blank if there's no different name for other regions.
+- **US** for America
+- **EU** for Europe
+- **JP** for Japan
 
-Example:
+You must fill out at least one of the cells in one of the `TITLE` columns. You don't have to fill the other cells if the title localization is the same for other regions (unless the region has a [unique icon](#icons) for the title being added).
 
-| US_TITLE			| EU_TITLE			| JP_TITLE
-|-------------------|-------------------|--------------
-| Super Mario		|					| スーパーマリオ
+**Example**
 
-The first column (``INDEX``) is used to set a unique ID for the icon displayed on your status. **The file name of your icon should be the same** as the ``INDEX`` with a region identifier at the very ending.
+| ... | US TITLE | EU TITLE | JP TITLE |
+| --- | --- | --- | --- |
+| ... | Super Mario |     | スーパーマリオ |
 
-Example:
+### Icons
 
-| INDEX	 | ... | US_TITLE	 | EU_TITLE	| JP_TITLE
-|--------|-----|-------------|----------|--------------
-| smario | ... | Super Mario |			| スーパーマリオ
+The first column is used to define a unique ID for the icon associated with the software. The icon filename should be the same, but with a region suffix appended.
 
-If that case the filename for the icons should be:
+**Example**
 
-- smario_us.png
-- smario_jp.png
+For a software entry like this:
 
-> You need an icon for at least one region.
+| ID | US | EU | JP | US TITLE | EU TITLE | JP TITLE |
+| --- | --- | --- | --- | --- | --- | --- |
+| smario | ✓ |  | ✓ | Super Mario |     | スーパーマリオ |
 
-You can ignore all other columns, those are only set after your icons are uploaded to Developer's Portal.
+The filename of the icons should be like this:
 
-After modifying a ``.csv``, you will have to include **a link for the icon of the newly added title in the description of your pull request**. The minimum accepted size is **512x512** pixels.
-- If the source image is too blurry or pixelated, the use of super-resolution for upscaling is preferable.
+- ``smario.us.jpg``
+- ``smario.jp.jpg``
 
-☕ After that you will just have to be patient, I'll manually add your icon to the Discord Developer's Portal. You can find all icons uploaded so far on this [drive folder](https://drive.google.com/drive/folders/1YfFO31--WDTFfD387-nJxnO88RQFs6tO?usp=sharing).
+> [!Warning]
+> ``default`` and ``id`` are reserved internally, therefore you should not use them as the ID or filename of an icon.
 
-> ⚠ This repository is not meant for hosting icons, only the strings for the titles used by the application.
+The cells in columns 2, 3, and 4 (from left to right) should be populated with a character to indicate when a corresponding icon is available. It can be any character, but I recommend using a check mark (``✓``).
+
+To avoid duplicates, when a software has different titles in different regions but shares the same icon in two or more of them, it is only necessary to provide an icon for only one region, this being the region with the highest priority. The order of priority is as follows:
+
+- **US ➜ EU ➜ JP**
+
+Applying this to the example above, only ``smario.us.png`` would be required.
+
+**Icon requirements**
+
+The guidelines for submitting icons are:
+
+- An icon for at least one region.
+- The file extension of the icon must be **.jpg**.
+- The filename of the icon must be the same as the unique ID, with a region suffix added to the left of the file extension. (``*ID*.*REGION*.jpg``)
+- The icon size must be **512x512** pixels (1:1) or larger.
+  - Icons smaller than that should be enlarged using nearest neighbor scaling if they are evenly divisible by the 512x512, otherwise it is preferable to upscale them using bilinear or lanczos interpolation or other super-resolution methods.
 
 ## Credits
 
 All resources provided here were made possible thanks to the contribution of the following people:
 
-* Nin★ (NinStar)
-* Majesty
-* Sneethan
-* Lakelimbo
-* Luxen
-* CodeBarre
-* issey
-* Peach774
-* Sneethan
+- NinStar
+- Majesty
+- Sneethan
+- Lakelimbo
+- Luxen
+- CodeBarre
+- issey
+- AbBrittus
+- gilramot
+- K1rbYat1Na
+- Kcroyals3
+- Peach774
+- Sup3r-M4rio
+- ShadowzI
+- Schitzel9000
+- squihb
+- teemerae
+- yurisasc
+- Zushi11
+- Zyliqx
+- catfxngs
