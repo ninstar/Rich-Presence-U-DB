@@ -72,6 +72,7 @@ The guidelines for submitting icons are:
 
 All resources provided here were made possible thanks to the contribution of the following people:
 
+- [GitHub Contributors](https://github.com/ninstar/Rich-Presence-U-DB/graphs/contributors)
 - NinStar
 - Majesty
 - Sneethan
