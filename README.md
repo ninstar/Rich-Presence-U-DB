@@ -2,6 +2,9 @@
 
 Title database for https://github.com/ninstar/Rich-Presence-U.
 
+> [!Note]
+> If you are not familiar with Git, you can use this [form](https://docs.google.com/forms/d/e/1FAIpQLSf8Uaf2FVQfwHDuZXAbwJL7Z8lkrjeU2wYbswv-jS2nL_hYdg/viewform?usp=sf_link) to submit your requests for new additions.
+
 ## How to contribute
 
 This is a list of the currently supported platforms:
